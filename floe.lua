@@ -2123,8 +2123,7 @@ local instrument = floe.new_instrument(library, {
 })
 
 -- Floe doesn't use the MIDI-1 style velocity ranges.
--- Maps from inclusive MIDI-1 style velocity range (1-127) to the new 0-100 exclusive range
--- Returns a tuple of (start, end) values in the normalized range
+-- This function maps from inclusive MIDI-1 style velocity range (1-127) to the new 0-100 exclusive range.
 local function map_midi_velocity_range_to_normalized_range(low_velo, high_velo)
     local lo = math.max(1, low_velo) - 1
     local hi = high_velo - 1
