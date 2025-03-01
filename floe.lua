@@ -8,7 +8,7 @@
 
 local rr1_group = {
     {
-        sample = "EWHarp_Normal_A#1_v2_RR1.wav",
+        sample = "EWHarp_Normal_A#1_v2_RR1.flac",
         lokey = 46,
         hikey = 46,
         pitch_keycenter = 46,
@@ -17,7 +17,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_A#2_v2_RR1.wav",
+        sample = "EWHarp_Normal_A#2_v2_RR1.flac",
         lokey = 58,
         hikey = 58,
         pitch_keycenter = 58,
@@ -26,7 +26,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_A#3_v2_RR1.wav",
+        sample = "EWHarp_Normal_A#3_v2_RR1.flac",
         lokey = 70,
         hikey = 70,
         pitch_keycenter = 70,
@@ -35,7 +35,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_A#4_v2_RR1.wav",
+        sample = "EWHarp_Normal_A#4_v2_RR1.flac",
         lokey = 82,
         hikey = 82,
         pitch_keycenter = 82,
@@ -44,7 +44,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_A1_v2_RR1.wav",
+        sample = "EWHarp_Normal_A1_v2_RR1.flac",
         lokey = 45,
         hikey = 45,
         pitch_keycenter = 45,
@@ -53,7 +53,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_A2_v2_RR1.wav",
+        sample = "EWHarp_Normal_A2_v2_RR1.flac",
         lokey = 57,
         hikey = 57,
         pitch_keycenter = 57,
@@ -62,7 +62,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_A3_v2_RR1.wav",
+        sample = "EWHarp_Normal_A3_v2_RR1.flac",
         lokey = 69,
         hikey = 69,
         pitch_keycenter = 69,
@@ -71,7 +71,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_A4_v2_RR1.wav",
+        sample = "EWHarp_Normal_A4_v2_RR1.flac",
         lokey = 81,
         hikey = 81,
         pitch_keycenter = 81,
@@ -80,7 +80,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_A5_v2_RR1.wav",
+        sample = "EWHarp_Normal_A5_v2_RR1.flac",
         lokey = 93,
         hikey = 93,
         pitch_keycenter = 93,
@@ -89,7 +89,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_B1_v2_RR1.wav",
+        sample = "EWHarp_Normal_B1_v2_RR1.flac",
         lokey = 47,
         hikey = 47,
         pitch_keycenter = 47,
@@ -98,7 +98,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_B2_v2_RR1.wav",
+        sample = "EWHarp_Normal_B2_v2_RR1.flac",
         lokey = 59,
         hikey = 59,
         pitch_keycenter = 59,
@@ -107,7 +107,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_B3_v2_RR1.wav",
+        sample = "EWHarp_Normal_B3_v2_RR1.flac",
         lokey = 71,
         hikey = 71,
         pitch_keycenter = 71,
@@ -116,7 +116,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_B4_v2_RR1.wav",
+        sample = "EWHarp_Normal_B4_v2_RR1.flac",
         lokey = 83,
         hikey = 83,
         pitch_keycenter = 83,
@@ -125,7 +125,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_C#1_v2_RR1.wav",
+        sample = "EWHarp_Normal_C#1_v2_RR1.flac",
         lokey = 37,
         hikey = 37,
         pitch_keycenter = 37,
@@ -134,7 +134,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_C#2_v2_RR1.wav",
+        sample = "EWHarp_Normal_C#2_v2_RR1.flac",
         lokey = 49,
         hikey = 49,
         pitch_keycenter = 49,
@@ -143,7 +143,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_C#3_v2_RR1.wav",
+        sample = "EWHarp_Normal_C#3_v2_RR1.flac",
         lokey = 61,
         hikey = 61,
         pitch_keycenter = 61,
@@ -152,7 +152,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_C#4_v2_RR1.wav",
+        sample = "EWHarp_Normal_C#4_v2_RR1.flac",
         lokey = 73,
         hikey = 73,
         pitch_keycenter = 73,
@@ -161,7 +161,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_C#5_v2_RR1.wav",
+        sample = "EWHarp_Normal_C#5_v2_RR1.flac",
         lokey = 85,
         hikey = 85,
         pitch_keycenter = 85,
@@ -170,7 +170,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_C1_v2_RR1.wav",
+        sample = "EWHarp_Normal_C1_v2_RR1.flac",
         lokey = 36,
         hikey = 36,
         pitch_keycenter = 36,
@@ -179,7 +179,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_C2_v2_RR1.wav",
+        sample = "EWHarp_Normal_C2_v2_RR1.flac",
         lokey = 48,
         hikey = 48,
         pitch_keycenter = 48,
@@ -188,7 +188,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_C3_v2_RR1.wav",
+        sample = "EWHarp_Normal_C3_v2_RR1.flac",
         lokey = 60,
         hikey = 60,
         pitch_keycenter = 60,
@@ -197,7 +197,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_C4_v2_RR1.wav",
+        sample = "EWHarp_Normal_C4_v2_RR1.flac",
         lokey = 72,
         hikey = 72,
         pitch_keycenter = 72,
@@ -206,7 +206,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_C5_v2_RR1.wav",
+        sample = "EWHarp_Normal_C5_v2_RR1.flac",
         lokey = 84,
         hikey = 84,
         pitch_keycenter = 84,
@@ -215,7 +215,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_D#1_v2_RR1.wav",
+        sample = "EWHarp_Normal_D#1_v2_RR1.flac",
         lokey = 39,
         hikey = 39,
         pitch_keycenter = 39,
@@ -224,7 +224,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_D#2_v2_RR1.wav",
+        sample = "EWHarp_Normal_D#2_v2_RR1.flac",
         lokey = 51,
         hikey = 51,
         pitch_keycenter = 51,
@@ -233,7 +233,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_D#3_v2_RR1.wav",
+        sample = "EWHarp_Normal_D#3_v2_RR1.flac",
         lokey = 63,
         hikey = 63,
         pitch_keycenter = 63,
@@ -242,7 +242,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_D#4_v2_RR1.wav",
+        sample = "EWHarp_Normal_D#4_v2_RR1.flac",
         lokey = 75,
         hikey = 75,
         pitch_keycenter = 75,
@@ -251,7 +251,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_D#5_v2_RR1.wav",
+        sample = "EWHarp_Normal_D#5_v2_RR1.flac",
         lokey = 87,
         hikey = 87,
         pitch_keycenter = 87,
@@ -260,7 +260,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_D1_v2_RR1.wav",
+        sample = "EWHarp_Normal_D1_v2_RR1.flac",
         lokey = 38,
         hikey = 38,
         pitch_keycenter = 38,
@@ -269,7 +269,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_D2_v2_RR1.wav",
+        sample = "EWHarp_Normal_D2_v2_RR1.flac",
         lokey = 50,
         hikey = 50,
         pitch_keycenter = 50,
@@ -278,7 +278,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_D3_v2_RR1.wav",
+        sample = "EWHarp_Normal_D3_v2_RR1.flac",
         lokey = 62,
         hikey = 62,
         pitch_keycenter = 62,
@@ -287,7 +287,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_D4_v2_RR1.wav",
+        sample = "EWHarp_Normal_D4_v2_RR1.flac",
         lokey = 74,
         hikey = 74,
         pitch_keycenter = 74,
@@ -296,7 +296,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_D5_v2_RR1.wav",
+        sample = "EWHarp_Normal_D5_v2_RR1.flac",
         lokey = 86,
         hikey = 86,
         pitch_keycenter = 86,
@@ -305,7 +305,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_E1_v2_RR1.wav",
+        sample = "EWHarp_Normal_E1_v2_RR1.flac",
         lokey = 40,
         hikey = 40,
         pitch_keycenter = 40,
@@ -314,7 +314,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_E2_v2_RR1.wav",
+        sample = "EWHarp_Normal_E2_v2_RR1.flac",
         lokey = 52,
         hikey = 52,
         pitch_keycenter = 52,
@@ -323,7 +323,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_E3_v2_RR1.wav",
+        sample = "EWHarp_Normal_E3_v2_RR1.flac",
         lokey = 64,
         hikey = 64,
         pitch_keycenter = 64,
@@ -332,7 +332,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_E4_v2_RR1.wav",
+        sample = "EWHarp_Normal_E4_v2_RR1.flac",
         lokey = 76,
         hikey = 76,
         pitch_keycenter = 76,
@@ -341,7 +341,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_E5_v2_RR1.wav",
+        sample = "EWHarp_Normal_E5_v2_RR1.flac",
         lokey = 88,
         hikey = 88,
         pitch_keycenter = 88,
@@ -350,7 +350,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_F#1_v2_RR1.wav",
+        sample = "EWHarp_Normal_F#1_v2_RR1.flac",
         lokey = 42,
         hikey = 42,
         pitch_keycenter = 42,
@@ -359,7 +359,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_F#2_v2_RR1.wav",
+        sample = "EWHarp_Normal_F#2_v2_RR1.flac",
         lokey = 54,
         hikey = 54,
         pitch_keycenter = 54,
@@ -368,7 +368,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_F#3_v2_RR1.wav",
+        sample = "EWHarp_Normal_F#3_v2_RR1.flac",
         lokey = 66,
         hikey = 66,
         pitch_keycenter = 66,
@@ -377,7 +377,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_F#4_v2_RR1.wav",
+        sample = "EWHarp_Normal_F#4_v2_RR1.flac",
         lokey = 78,
         hikey = 78,
         pitch_keycenter = 78,
@@ -386,7 +386,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_F#5_v2_RR1.wav",
+        sample = "EWHarp_Normal_F#5_v2_RR1.flac",
         lokey = 90,
         hikey = 90,
         pitch_keycenter = 90,
@@ -395,7 +395,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_F1_v2_RR1.wav",
+        sample = "EWHarp_Normal_F1_v2_RR1.flac",
         lokey = 41,
         hikey = 41,
         pitch_keycenter = 41,
@@ -404,7 +404,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_F2_v2_RR1.wav",
+        sample = "EWHarp_Normal_F2_v2_RR1.flac",
         lokey = 53,
         hikey = 53,
         pitch_keycenter = 53,
@@ -413,7 +413,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_F3_v2_RR1.wav",
+        sample = "EWHarp_Normal_F3_v2_RR1.flac",
         lokey = 65,
         hikey = 65,
         pitch_keycenter = 65,
@@ -422,7 +422,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_F4_v2_RR1.wav",
+        sample = "EWHarp_Normal_F4_v2_RR1.flac",
         lokey = 77,
         hikey = 77,
         pitch_keycenter = 77,
@@ -431,7 +431,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_F5_v2_RR1.wav",
+        sample = "EWHarp_Normal_F5_v2_RR1.flac",
         lokey = 89,
         hikey = 89,
         pitch_keycenter = 89,
@@ -440,7 +440,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_G#1_v2_RR1.wav",
+        sample = "EWHarp_Normal_G#1_v2_RR1.flac",
         lokey = 44,
         hikey = 44,
         pitch_keycenter = 44,
@@ -449,7 +449,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_G#2_v2_RR1.wav",
+        sample = "EWHarp_Normal_G#2_v2_RR1.flac",
         lokey = 56,
         hikey = 56,
         pitch_keycenter = 56,
@@ -458,7 +458,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_G#3_v2_RR1.wav",
+        sample = "EWHarp_Normal_G#3_v2_RR1.flac",
         lokey = 68,
         hikey = 68,
         pitch_keycenter = 68,
@@ -467,7 +467,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_G#4_v2_RR1.wav",
+        sample = "EWHarp_Normal_G#4_v2_RR1.flac",
         lokey = 80,
         hikey = 80,
         pitch_keycenter = 80,
@@ -476,7 +476,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_G#5_v2_RR1.wav",
+        sample = "EWHarp_Normal_G#5_v2_RR1.flac",
         lokey = 92,
         hikey = 92,
         pitch_keycenter = 92,
@@ -485,7 +485,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_G1_v2_RR1.wav",
+        sample = "EWHarp_Normal_G1_v2_RR1.flac",
         lokey = 43,
         hikey = 43,
         pitch_keycenter = 43,
@@ -494,7 +494,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_G2_v2_RR1.wav",
+        sample = "EWHarp_Normal_G2_v2_RR1.flac",
         lokey = 55,
         hikey = 55,
         pitch_keycenter = 55,
@@ -503,7 +503,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_G3_v2_RR1.wav",
+        sample = "EWHarp_Normal_G3_v2_RR1.flac",
         lokey = 67,
         hikey = 67,
         pitch_keycenter = 67,
@@ -512,7 +512,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_G4_v2_RR1.wav",
+        sample = "EWHarp_Normal_G4_v2_RR1.flac",
         lokey = 79,
         hikey = 79,
         pitch_keycenter = 79,
@@ -521,7 +521,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_G5_v2_RR1.wav",
+        sample = "EWHarp_Normal_G5_v2_RR1.flac",
         lokey = 91,
         hikey = 91,
         pitch_keycenter = 91,
@@ -530,7 +530,7 @@ local rr1_group = {
         volume = 14
     },
     {
-        sample = "EWHarp_Normal_A#1_v3_RR1.wav",
+        sample = "EWHarp_Normal_A#1_v3_RR1.flac",
         lokey = 46,
         hikey = 46,
         pitch_keycenter = 46,
@@ -539,7 +539,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_A#2_v3_RR1.wav",
+        sample = "EWHarp_Normal_A#2_v3_RR1.flac",
         lokey = 58,
         hikey = 58,
         pitch_keycenter = 58,
@@ -548,7 +548,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_A#3_v3_RR1.wav",
+        sample = "EWHarp_Normal_A#3_v3_RR1.flac",
         lokey = 70,
         hikey = 70,
         pitch_keycenter = 70,
@@ -557,7 +557,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_A#4_v3_RR1.wav",
+        sample = "EWHarp_Normal_A#4_v3_RR1.flac",
         lokey = 82,
         hikey = 82,
         pitch_keycenter = 82,
@@ -566,7 +566,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_A1_v3_RR1.wav",
+        sample = "EWHarp_Normal_A1_v3_RR1.flac",
         lokey = 45,
         hikey = 45,
         pitch_keycenter = 45,
@@ -575,7 +575,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_A2_v3_RR1.wav",
+        sample = "EWHarp_Normal_A2_v3_RR1.flac",
         lokey = 57,
         hikey = 57,
         pitch_keycenter = 57,
@@ -584,7 +584,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_A3_v3_RR1.wav",
+        sample = "EWHarp_Normal_A3_v3_RR1.flac",
         lokey = 69,
         hikey = 69,
         pitch_keycenter = 69,
@@ -593,7 +593,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_A4_v3_RR1.wav",
+        sample = "EWHarp_Normal_A4_v3_RR1.flac",
         lokey = 81,
         hikey = 81,
         pitch_keycenter = 81,
@@ -602,7 +602,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_A5_v3_RR1.wav",
+        sample = "EWHarp_Normal_A5_v3_RR1.flac",
         lokey = 93,
         hikey = 93,
         pitch_keycenter = 93,
@@ -611,7 +611,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_B1_v3_RR1.wav",
+        sample = "EWHarp_Normal_B1_v3_RR1.flac",
         lokey = 47,
         hikey = 47,
         pitch_keycenter = 47,
@@ -620,7 +620,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_B2_v3_RR1.wav",
+        sample = "EWHarp_Normal_B2_v3_RR1.flac",
         lokey = 59,
         hikey = 59,
         pitch_keycenter = 59,
@@ -629,7 +629,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_B3_v3_RR1.wav",
+        sample = "EWHarp_Normal_B3_v3_RR1.flac",
         lokey = 71,
         hikey = 71,
         pitch_keycenter = 71,
@@ -638,7 +638,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_B4_v3_RR1.wav",
+        sample = "EWHarp_Normal_B4_v3_RR1.flac",
         lokey = 83,
         hikey = 83,
         pitch_keycenter = 83,
@@ -647,7 +647,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_C#1_v3_RR1.wav",
+        sample = "EWHarp_Normal_C#1_v3_RR1.flac",
         lokey = 37,
         hikey = 37,
         pitch_keycenter = 37,
@@ -656,7 +656,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_C#2_v3_RR1.wav",
+        sample = "EWHarp_Normal_C#2_v3_RR1.flac",
         lokey = 49,
         hikey = 49,
         pitch_keycenter = 49,
@@ -665,7 +665,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_C#3_v3_RR1.wav",
+        sample = "EWHarp_Normal_C#3_v3_RR1.flac",
         lokey = 61,
         hikey = 61,
         pitch_keycenter = 61,
@@ -674,7 +674,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_C#4_v3_RR1.wav",
+        sample = "EWHarp_Normal_C#4_v3_RR1.flac",
         lokey = 73,
         hikey = 73,
         pitch_keycenter = 73,
@@ -683,7 +683,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_C#5_v3_RR1.wav",
+        sample = "EWHarp_Normal_C#5_v3_RR1.flac",
         lokey = 85,
         hikey = 85,
         pitch_keycenter = 85,
@@ -692,7 +692,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_C1_v3_RR1.wav",
+        sample = "EWHarp_Normal_C1_v3_RR1.flac",
         lokey = 36,
         hikey = 36,
         pitch_keycenter = 36,
@@ -701,7 +701,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_C2_v3_RR1.wav",
+        sample = "EWHarp_Normal_C2_v3_RR1.flac",
         lokey = 48,
         hikey = 48,
         pitch_keycenter = 48,
@@ -710,7 +710,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_C3_v3_RR1.wav",
+        sample = "EWHarp_Normal_C3_v3_RR1.flac",
         lokey = 60,
         hikey = 60,
         pitch_keycenter = 60,
@@ -719,7 +719,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_C4_v3_RR1.wav",
+        sample = "EWHarp_Normal_C4_v3_RR1.flac",
         lokey = 72,
         hikey = 72,
         pitch_keycenter = 72,
@@ -728,7 +728,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_C5_v3_RR1.wav",
+        sample = "EWHarp_Normal_C5_v3_RR1.flac",
         lokey = 84,
         hikey = 84,
         pitch_keycenter = 84,
@@ -737,7 +737,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_D#1_v3_RR1.wav",
+        sample = "EWHarp_Normal_D#1_v3_RR1.flac",
         lokey = 39,
         hikey = 39,
         pitch_keycenter = 39,
@@ -746,7 +746,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_D#2_v3_RR1.wav",
+        sample = "EWHarp_Normal_D#2_v3_RR1.flac",
         lokey = 51,
         hikey = 51,
         pitch_keycenter = 51,
@@ -755,7 +755,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_D#3_v3_RR1.wav",
+        sample = "EWHarp_Normal_D#3_v3_RR1.flac",
         lokey = 63,
         hikey = 63,
         pitch_keycenter = 63,
@@ -764,7 +764,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_D#4_v3_RR1.wav",
+        sample = "EWHarp_Normal_D#4_v3_RR1.flac",
         lokey = 75,
         hikey = 75,
         pitch_keycenter = 75,
@@ -773,7 +773,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_D#5_v3_RR1.wav",
+        sample = "EWHarp_Normal_D#5_v3_RR1.flac",
         lokey = 87,
         hikey = 87,
         pitch_keycenter = 87,
@@ -782,7 +782,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_D1_v3_RR1.wav",
+        sample = "EWHarp_Normal_D1_v3_RR1.flac",
         lokey = 38,
         hikey = 38,
         pitch_keycenter = 38,
@@ -791,7 +791,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_D2_v3_RR1.wav",
+        sample = "EWHarp_Normal_D2_v3_RR1.flac",
         lokey = 50,
         hikey = 50,
         pitch_keycenter = 50,
@@ -800,7 +800,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_D3_v3_RR1.wav",
+        sample = "EWHarp_Normal_D3_v3_RR1.flac",
         lokey = 62,
         hikey = 62,
         pitch_keycenter = 62,
@@ -809,7 +809,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_D4_v3_RR1.wav",
+        sample = "EWHarp_Normal_D4_v3_RR1.flac",
         lokey = 74,
         hikey = 74,
         pitch_keycenter = 74,
@@ -818,7 +818,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_D5_v3_RR1.wav",
+        sample = "EWHarp_Normal_D5_v3_RR1.flac",
         lokey = 86,
         hikey = 86,
         pitch_keycenter = 86,
@@ -827,7 +827,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_E1_v3_RR1.wav",
+        sample = "EWHarp_Normal_E1_v3_RR1.flac",
         lokey = 40,
         hikey = 40,
         pitch_keycenter = 40,
@@ -836,7 +836,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_E2_v3_RR1.wav",
+        sample = "EWHarp_Normal_E2_v3_RR1.flac",
         lokey = 52,
         hikey = 52,
         pitch_keycenter = 52,
@@ -845,7 +845,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_E3_v3_RR1.wav",
+        sample = "EWHarp_Normal_E3_v3_RR1.flac",
         lokey = 64,
         hikey = 64,
         pitch_keycenter = 64,
@@ -854,7 +854,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_E4_v3_RR1.wav",
+        sample = "EWHarp_Normal_E4_v3_RR1.flac",
         lokey = 76,
         hikey = 76,
         pitch_keycenter = 76,
@@ -863,7 +863,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_E5_v3_RR1.wav",
+        sample = "EWHarp_Normal_E5_v3_RR1.flac",
         lokey = 88,
         hikey = 88,
         pitch_keycenter = 88,
@@ -872,7 +872,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_F#1_v3_RR1.wav",
+        sample = "EWHarp_Normal_F#1_v3_RR1.flac",
         lokey = 42,
         hikey = 42,
         pitch_keycenter = 42,
@@ -881,7 +881,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_F#2_v3_RR1.wav",
+        sample = "EWHarp_Normal_F#2_v3_RR1.flac",
         lokey = 54,
         hikey = 54,
         pitch_keycenter = 54,
@@ -890,7 +890,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_F#3_v3_RR1.wav",
+        sample = "EWHarp_Normal_F#3_v3_RR1.flac",
         lokey = 66,
         hikey = 66,
         pitch_keycenter = 66,
@@ -899,7 +899,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_F#4_v3_RR1.wav",
+        sample = "EWHarp_Normal_F#4_v3_RR1.flac",
         lokey = 78,
         hikey = 78,
         pitch_keycenter = 78,
@@ -908,7 +908,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_F#5_v3_RR1.wav",
+        sample = "EWHarp_Normal_F#5_v3_RR1.flac",
         lokey = 90,
         hikey = 90,
         pitch_keycenter = 90,
@@ -917,7 +917,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_F1_v3_RR1.wav",
+        sample = "EWHarp_Normal_F1_v3_RR1.flac",
         lokey = 41,
         hikey = 41,
         pitch_keycenter = 41,
@@ -926,7 +926,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_F2_v3_RR1.wav",
+        sample = "EWHarp_Normal_F2_v3_RR1.flac",
         lokey = 53,
         hikey = 53,
         pitch_keycenter = 53,
@@ -935,7 +935,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_F3_v3_RR1.wav",
+        sample = "EWHarp_Normal_F3_v3_RR1.flac",
         lokey = 65,
         hikey = 65,
         pitch_keycenter = 65,
@@ -944,7 +944,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_F4_v3_RR1.wav",
+        sample = "EWHarp_Normal_F4_v3_RR1.flac",
         lokey = 77,
         hikey = 77,
         pitch_keycenter = 77,
@@ -953,7 +953,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_F5_v3_RR1.wav",
+        sample = "EWHarp_Normal_F5_v3_RR1.flac",
         lokey = 89,
         hikey = 89,
         pitch_keycenter = 89,
@@ -962,7 +962,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_G#1_v3_RR1.wav",
+        sample = "EWHarp_Normal_G#1_v3_RR1.flac",
         lokey = 44,
         hikey = 44,
         pitch_keycenter = 44,
@@ -971,7 +971,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_G#2_v3_RR1.wav",
+        sample = "EWHarp_Normal_G#2_v3_RR1.flac",
         lokey = 56,
         hikey = 56,
         pitch_keycenter = 56,
@@ -980,7 +980,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_G#3_v3_RR1.wav",
+        sample = "EWHarp_Normal_G#3_v3_RR1.flac",
         lokey = 68,
         hikey = 68,
         pitch_keycenter = 68,
@@ -989,7 +989,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_G#4_v3_RR1.wav",
+        sample = "EWHarp_Normal_G#4_v3_RR1.flac",
         lokey = 80,
         hikey = 80,
         pitch_keycenter = 80,
@@ -998,7 +998,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_G#5_v3_RR1.wav",
+        sample = "EWHarp_Normal_G#5_v3_RR1.flac",
         lokey = 92,
         hikey = 92,
         pitch_keycenter = 92,
@@ -1007,7 +1007,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_G1_v3_RR1.wav",
+        sample = "EWHarp_Normal_G1_v3_RR1.flac",
         lokey = 43,
         hikey = 43,
         pitch_keycenter = 43,
@@ -1016,7 +1016,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_G2_v3_RR1.wav",
+        sample = "EWHarp_Normal_G2_v3_RR1.flac",
         lokey = 55,
         hikey = 55,
         pitch_keycenter = 55,
@@ -1025,7 +1025,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_G3_v3_RR1.wav",
+        sample = "EWHarp_Normal_G3_v3_RR1.flac",
         lokey = 67,
         hikey = 67,
         pitch_keycenter = 67,
@@ -1034,7 +1034,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_G4_v3_RR1.wav",
+        sample = "EWHarp_Normal_G4_v3_RR1.flac",
         lokey = 79,
         hikey = 79,
         pitch_keycenter = 79,
@@ -1043,7 +1043,7 @@ local rr1_group = {
         volume = 2
     },
     {
-        sample = "EWHarp_Normal_G5_v3_RR1.wav",
+        sample = "EWHarp_Normal_G5_v3_RR1.flac",
         lokey = 91,
         hikey = 91,
         pitch_keycenter = 91,
@@ -1055,7 +1055,7 @@ local rr1_group = {
 
 local rr2_group = {
     {
-        sample = "EWHarp_Normal_A#1_v2_RR2.wav",
+        sample = "EWHarp_Normal_A#1_v2_RR2.flac",
         lokey = 46,
         hikey = 46,
         pitch_keycenter = 46,
@@ -1064,7 +1064,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_A#2_v2_RR2.wav",
+        sample = "EWHarp_Normal_A#2_v2_RR2.flac",
         lokey = 58,
         hikey = 58,
         pitch_keycenter = 58,
@@ -1073,7 +1073,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_A#3_v2_RR2.wav",
+        sample = "EWHarp_Normal_A#3_v2_RR2.flac",
         lokey = 70,
         hikey = 70,
         pitch_keycenter = 70,
@@ -1082,7 +1082,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_A#4_v2_RR2.wav",
+        sample = "EWHarp_Normal_A#4_v2_RR2.flac",
         lokey = 82,
         hikey = 82,
         pitch_keycenter = 82,
@@ -1091,7 +1091,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_A1_v2_RR2.wav",
+        sample = "EWHarp_Normal_A1_v2_RR2.flac",
         lokey = 45,
         hikey = 45,
         pitch_keycenter = 45,
@@ -1100,7 +1100,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_A2_v2_RR2.wav",
+        sample = "EWHarp_Normal_A2_v2_RR2.flac",
         lokey = 57,
         hikey = 57,
         pitch_keycenter = 57,
@@ -1109,7 +1109,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_A3_v2_RR2.wav",
+        sample = "EWHarp_Normal_A3_v2_RR2.flac",
         lokey = 69,
         hikey = 69,
         pitch_keycenter = 69,
@@ -1118,7 +1118,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_A4_v2_RR2.wav",
+        sample = "EWHarp_Normal_A4_v2_RR2.flac",
         lokey = 81,
         hikey = 81,
         pitch_keycenter = 81,
@@ -1127,7 +1127,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_A5_v2_RR2.wav",
+        sample = "EWHarp_Normal_A5_v2_RR2.flac",
         lokey = 93,
         hikey = 93,
         pitch_keycenter = 93,
@@ -1136,7 +1136,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_B1_v2_RR2.wav",
+        sample = "EWHarp_Normal_B1_v2_RR2.flac",
         lokey = 47,
         hikey = 47,
         pitch_keycenter = 47,
@@ -1145,7 +1145,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_B2_v2_RR2.wav",
+        sample = "EWHarp_Normal_B2_v2_RR2.flac",
         lokey = 59,
         hikey = 59,
         pitch_keycenter = 59,
@@ -1154,7 +1154,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_B3_v2_RR2.wav",
+        sample = "EWHarp_Normal_B3_v2_RR2.flac",
         lokey = 71,
         hikey = 71,
         pitch_keycenter = 71,
@@ -1163,7 +1163,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_B4_v2_RR2.wav",
+        sample = "EWHarp_Normal_B4_v2_RR2.flac",
         lokey = 83,
         hikey = 83,
         pitch_keycenter = 83,
@@ -1172,7 +1172,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_C#1_v2_RR2.wav",
+        sample = "EWHarp_Normal_C#1_v2_RR2.flac",
         lokey = 37,
         hikey = 37,
         pitch_keycenter = 37,
@@ -1181,7 +1181,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_C#2_v2_RR2.wav",
+        sample = "EWHarp_Normal_C#2_v2_RR2.flac",
         lokey = 49,
         hikey = 49,
         pitch_keycenter = 49,
@@ -1190,7 +1190,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_C#3_v2_RR2.wav",
+        sample = "EWHarp_Normal_C#3_v2_RR2.flac",
         lokey = 61,
         hikey = 61,
         pitch_keycenter = 61,
@@ -1199,7 +1199,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_C#4_v2_RR2.wav",
+        sample = "EWHarp_Normal_C#4_v2_RR2.flac",
         lokey = 73,
         hikey = 73,
         pitch_keycenter = 73,
@@ -1208,7 +1208,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_C#5_v2_RR2.wav",
+        sample = "EWHarp_Normal_C#5_v2_RR2.flac",
         lokey = 85,
         hikey = 85,
         pitch_keycenter = 85,
@@ -1217,7 +1217,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_C1_v2_RR2.wav",
+        sample = "EWHarp_Normal_C1_v2_RR2.flac",
         lokey = 36,
         hikey = 36,
         pitch_keycenter = 36,
@@ -1226,7 +1226,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_C2_v2_RR2.wav",
+        sample = "EWHarp_Normal_C2_v2_RR2.flac",
         lokey = 48,
         hikey = 48,
         pitch_keycenter = 48,
@@ -1235,7 +1235,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_C3_v2_RR2.wav",
+        sample = "EWHarp_Normal_C3_v2_RR2.flac",
         lokey = 60,
         hikey = 60,
         pitch_keycenter = 60,
@@ -1244,7 +1244,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_C4_v2_RR2.wav",
+        sample = "EWHarp_Normal_C4_v2_RR2.flac",
         lokey = 72,
         hikey = 72,
         pitch_keycenter = 72,
@@ -1253,7 +1253,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_C5_v2_RR2.wav",
+        sample = "EWHarp_Normal_C5_v2_RR2.flac",
         lokey = 84,
         hikey = 84,
         pitch_keycenter = 84,
@@ -1262,7 +1262,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_D#1_v2_RR2.wav",
+        sample = "EWHarp_Normal_D#1_v2_RR2.flac",
         lokey = 39,
         hikey = 39,
         pitch_keycenter = 39,
@@ -1271,7 +1271,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_D#2_v2_RR2.wav",
+        sample = "EWHarp_Normal_D#2_v2_RR2.flac",
         lokey = 51,
         hikey = 51,
         pitch_keycenter = 51,
@@ -1280,7 +1280,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_D#3_v2_RR2.wav",
+        sample = "EWHarp_Normal_D#3_v2_RR2.flac",
         lokey = 63,
         hikey = 63,
         pitch_keycenter = 63,
@@ -1289,7 +1289,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_D#4_v2_RR2.wav",
+        sample = "EWHarp_Normal_D#4_v2_RR2.flac",
         lokey = 75,
         hikey = 75,
         pitch_keycenter = 75,
@@ -1298,7 +1298,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_D#5_v2_RR2.wav",
+        sample = "EWHarp_Normal_D#5_v2_RR2.flac",
         lokey = 87,
         hikey = 87,
         pitch_keycenter = 87,
@@ -1307,7 +1307,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_D1_v2_RR2.wav",
+        sample = "EWHarp_Normal_D1_v2_RR2.flac",
         lokey = 38,
         hikey = 38,
         pitch_keycenter = 38,
@@ -1316,7 +1316,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_D2_v2_RR2.wav",
+        sample = "EWHarp_Normal_D2_v2_RR2.flac",
         lokey = 50,
         hikey = 50,
         pitch_keycenter = 50,
@@ -1325,7 +1325,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_D3_v2_RR2.wav",
+        sample = "EWHarp_Normal_D3_v2_RR2.flac",
         lokey = 62,
         hikey = 62,
         pitch_keycenter = 62,
@@ -1334,7 +1334,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_D4_v2_RR2.wav",
+        sample = "EWHarp_Normal_D4_v2_RR2.flac",
         lokey = 74,
         hikey = 74,
         pitch_keycenter = 74,
@@ -1343,7 +1343,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_D5_v2_RR2.wav",
+        sample = "EWHarp_Normal_D5_v2_RR2.flac",
         lokey = 86,
         hikey = 86,
         pitch_keycenter = 86,
@@ -1352,7 +1352,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_E1_v2_RR2.wav",
+        sample = "EWHarp_Normal_E1_v2_RR2.flac",
         lokey = 40,
         hikey = 40,
         pitch_keycenter = 40,
@@ -1361,7 +1361,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_E2_v2_RR2.wav",
+        sample = "EWHarp_Normal_E2_v2_RR2.flac",
         lokey = 52,
         hikey = 52,
         pitch_keycenter = 52,
@@ -1370,7 +1370,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_E3_v2_RR2.wav",
+        sample = "EWHarp_Normal_E3_v2_RR2.flac",
         lokey = 64,
         hikey = 64,
         pitch_keycenter = 64,
@@ -1379,7 +1379,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_E4_v2_RR2.wav",
+        sample = "EWHarp_Normal_E4_v2_RR2.flac",
         lokey = 76,
         hikey = 76,
         pitch_keycenter = 76,
@@ -1388,7 +1388,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_E5_v2_RR2.wav",
+        sample = "EWHarp_Normal_E5_v2_RR2.flac",
         lokey = 88,
         hikey = 88,
         pitch_keycenter = 88,
@@ -1397,7 +1397,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_F#1_v2_RR2.wav",
+        sample = "EWHarp_Normal_F#1_v2_RR2.flac",
         lokey = 42,
         hikey = 42,
         pitch_keycenter = 42,
@@ -1406,7 +1406,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_F#2_v2_RR2.wav",
+        sample = "EWHarp_Normal_F#2_v2_RR2.flac",
         lokey = 54,
         hikey = 54,
         pitch_keycenter = 54,
@@ -1415,7 +1415,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_F#3_v2_RR2.wav",
+        sample = "EWHarp_Normal_F#3_v2_RR2.flac",
         lokey = 66,
         hikey = 66,
         pitch_keycenter = 66,
@@ -1424,7 +1424,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_F#4_v2_RR2.wav",
+        sample = "EWHarp_Normal_F#4_v2_RR2.flac",
         lokey = 78,
         hikey = 78,
         pitch_keycenter = 78,
@@ -1433,7 +1433,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_F#5_v2_RR2.wav",
+        sample = "EWHarp_Normal_F#5_v2_RR2.flac",
         lokey = 90,
         hikey = 90,
         pitch_keycenter = 90,
@@ -1442,7 +1442,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_F1_v2_RR2.wav",
+        sample = "EWHarp_Normal_F1_v2_RR2.flac",
         lokey = 41,
         hikey = 41,
         pitch_keycenter = 41,
@@ -1451,7 +1451,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_F2_v2_RR2.wav",
+        sample = "EWHarp_Normal_F2_v2_RR2.flac",
         lokey = 53,
         hikey = 53,
         pitch_keycenter = 53,
@@ -1460,7 +1460,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_F3_v2_RR2.wav",
+        sample = "EWHarp_Normal_F3_v2_RR2.flac",
         lokey = 65,
         hikey = 65,
         pitch_keycenter = 65,
@@ -1469,7 +1469,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_F4_v2_RR2.wav",
+        sample = "EWHarp_Normal_F4_v2_RR2.flac",
         lokey = 77,
         hikey = 77,
         pitch_keycenter = 77,
@@ -1478,7 +1478,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_F5_v2_RR2.wav",
+        sample = "EWHarp_Normal_F5_v2_RR2.flac",
         lokey = 89,
         hikey = 89,
         pitch_keycenter = 89,
@@ -1487,7 +1487,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_G#1_v2_RR2.wav",
+        sample = "EWHarp_Normal_G#1_v2_RR2.flac",
         lokey = 44,
         hikey = 44,
         pitch_keycenter = 44,
@@ -1496,7 +1496,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_G#2_v2_RR2.wav",
+        sample = "EWHarp_Normal_G#2_v2_RR2.flac",
         lokey = 56,
         hikey = 56,
         pitch_keycenter = 56,
@@ -1505,7 +1505,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_G#3_v2_RR2.wav",
+        sample = "EWHarp_Normal_G#3_v2_RR2.flac",
         lokey = 68,
         hikey = 68,
         pitch_keycenter = 68,
@@ -1514,7 +1514,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_G#4_v2_RR2.wav",
+        sample = "EWHarp_Normal_G#4_v2_RR2.flac",
         lokey = 80,
         hikey = 80,
         pitch_keycenter = 80,
@@ -1523,7 +1523,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_G#5_v2_RR2.wav",
+        sample = "EWHarp_Normal_G#5_v2_RR2.flac",
         lokey = 92,
         hikey = 92,
         pitch_keycenter = 92,
@@ -1532,7 +1532,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_G1_v2_RR2.wav",
+        sample = "EWHarp_Normal_G1_v2_RR2.flac",
         lokey = 43,
         hikey = 43,
         pitch_keycenter = 43,
@@ -1541,7 +1541,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_G2_v2_RR2.wav",
+        sample = "EWHarp_Normal_G2_v2_RR2.flac",
         lokey = 55,
         hikey = 55,
         pitch_keycenter = 55,
@@ -1550,7 +1550,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_G3_v2_RR2.wav",
+        sample = "EWHarp_Normal_G3_v2_RR2.flac",
         lokey = 67,
         hikey = 67,
         pitch_keycenter = 67,
@@ -1559,7 +1559,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_G4_v2_RR2.wav",
+        sample = "EWHarp_Normal_G4_v2_RR2.flac",
         lokey = 79,
         hikey = 79,
         pitch_keycenter = 79,
@@ -1568,7 +1568,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_G5_v2_RR2.wav",
+        sample = "EWHarp_Normal_G5_v2_RR2.flac",
         lokey = 91,
         hikey = 91,
         pitch_keycenter = 91,
@@ -1577,7 +1577,7 @@ local rr2_group = {
         volume = 14,
     },
     {
-        sample = "EWHarp_Normal_A#1_v3_RR2.wav",
+        sample = "EWHarp_Normal_A#1_v3_RR2.flac",
         lokey = 46,
         hikey = 46,
         pitch_keycenter = 46,
@@ -1586,7 +1586,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_A#2_v3_RR2.wav",
+        sample = "EWHarp_Normal_A#2_v3_RR2.flac",
         lokey = 58,
         hikey = 58,
         pitch_keycenter = 58,
@@ -1595,7 +1595,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_A#3_v3_RR2.wav",
+        sample = "EWHarp_Normal_A#3_v3_RR2.flac",
         lokey = 70,
         hikey = 70,
         pitch_keycenter = 70,
@@ -1604,7 +1604,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_A#4_v3_RR2.wav",
+        sample = "EWHarp_Normal_A#4_v3_RR2.flac",
         lokey = 82,
         hikey = 82,
         pitch_keycenter = 82,
@@ -1613,7 +1613,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_A1_v3_RR2.wav",
+        sample = "EWHarp_Normal_A1_v3_RR2.flac",
         lokey = 45,
         hikey = 45,
         pitch_keycenter = 45,
@@ -1622,7 +1622,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_A2_v3_RR2.wav",
+        sample = "EWHarp_Normal_A2_v3_RR2.flac",
         lokey = 57,
         hikey = 57,
         pitch_keycenter = 57,
@@ -1631,7 +1631,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_A3_v3_RR2.wav",
+        sample = "EWHarp_Normal_A3_v3_RR2.flac",
         lokey = 69,
         hikey = 69,
         pitch_keycenter = 69,
@@ -1640,7 +1640,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_A4_v3_RR2.wav",
+        sample = "EWHarp_Normal_A4_v3_RR2.flac",
         lokey = 81,
         hikey = 81,
         pitch_keycenter = 81,
@@ -1649,7 +1649,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_A5_v3_RR2.wav",
+        sample = "EWHarp_Normal_A5_v3_RR2.flac",
         lokey = 93,
         hikey = 93,
         pitch_keycenter = 93,
@@ -1658,7 +1658,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_B1_v3_RR2.wav",
+        sample = "EWHarp_Normal_B1_v3_RR2.flac",
         lokey = 47,
         hikey = 47,
         pitch_keycenter = 47,
@@ -1667,7 +1667,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_B2_v3_RR2.wav",
+        sample = "EWHarp_Normal_B2_v3_RR2.flac",
         lokey = 59,
         hikey = 59,
         pitch_keycenter = 59,
@@ -1676,7 +1676,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_B3_v3_RR2.wav",
+        sample = "EWHarp_Normal_B3_v3_RR2.flac",
         lokey = 71,
         hikey = 71,
         pitch_keycenter = 71,
@@ -1685,7 +1685,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_B4_v3_RR2.wav",
+        sample = "EWHarp_Normal_B4_v3_RR2.flac",
         lokey = 83,
         hikey = 83,
         pitch_keycenter = 83,
@@ -1694,7 +1694,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_C#1_v3_RR2.wav",
+        sample = "EWHarp_Normal_C#1_v3_RR2.flac",
         lokey = 37,
         hikey = 37,
         pitch_keycenter = 37,
@@ -1703,7 +1703,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_C#2_v3_RR2.wav",
+        sample = "EWHarp_Normal_C#2_v3_RR2.flac",
         lokey = 49,
         hikey = 49,
         pitch_keycenter = 49,
@@ -1712,7 +1712,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_C#3_v3_RR2.wav",
+        sample = "EWHarp_Normal_C#3_v3_RR2.flac",
         lokey = 61,
         hikey = 61,
         pitch_keycenter = 61,
@@ -1721,7 +1721,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_C#4_v3_RR2.wav",
+        sample = "EWHarp_Normal_C#4_v3_RR2.flac",
         lokey = 73,
         hikey = 73,
         pitch_keycenter = 73,
@@ -1730,7 +1730,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_C#5_v3_RR2.wav",
+        sample = "EWHarp_Normal_C#5_v3_RR2.flac",
         lokey = 85,
         hikey = 85,
         pitch_keycenter = 85,
@@ -1739,7 +1739,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_C1_v3_RR2.wav",
+        sample = "EWHarp_Normal_C1_v3_RR2.flac",
         lokey = 36,
         hikey = 36,
         pitch_keycenter = 36,
@@ -1748,7 +1748,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_C2_v3_RR2.wav",
+        sample = "EWHarp_Normal_C2_v3_RR2.flac",
         lokey = 48,
         hikey = 48,
         pitch_keycenter = 48,
@@ -1757,7 +1757,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_C3_v3_RR2.wav",
+        sample = "EWHarp_Normal_C3_v3_RR2.flac",
         lokey = 60,
         hikey = 60,
         pitch_keycenter = 60,
@@ -1766,7 +1766,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_C4_v3_RR2.wav",
+        sample = "EWHarp_Normal_C4_v3_RR2.flac",
         lokey = 72,
         hikey = 72,
         pitch_keycenter = 72,
@@ -1775,7 +1775,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_C5_v3_RR2.wav",
+        sample = "EWHarp_Normal_C5_v3_RR2.flac",
         lokey = 84,
         hikey = 84,
         pitch_keycenter = 84,
@@ -1784,7 +1784,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_D#1_v3_RR2.wav",
+        sample = "EWHarp_Normal_D#1_v3_RR2.flac",
         lokey = 39,
         hikey = 39,
         pitch_keycenter = 39,
@@ -1793,7 +1793,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_D#2_v3_RR2.wav",
+        sample = "EWHarp_Normal_D#2_v3_RR2.flac",
         lokey = 51,
         hikey = 51,
         pitch_keycenter = 51,
@@ -1802,7 +1802,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_D#3_v3_RR2.wav",
+        sample = "EWHarp_Normal_D#3_v3_RR2.flac",
         lokey = 63,
         hikey = 63,
         pitch_keycenter = 63,
@@ -1811,7 +1811,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_D#4_v3_RR2.wav",
+        sample = "EWHarp_Normal_D#4_v3_RR2.flac",
         lokey = 75,
         hikey = 75,
         pitch_keycenter = 75,
@@ -1820,7 +1820,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_D#5_v3_RR2.wav",
+        sample = "EWHarp_Normal_D#5_v3_RR2.flac",
         lokey = 87,
         hikey = 87,
         pitch_keycenter = 87,
@@ -1829,7 +1829,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_D1_v3_RR2.wav",
+        sample = "EWHarp_Normal_D1_v3_RR2.flac",
         lokey = 38,
         hikey = 38,
         pitch_keycenter = 38,
@@ -1838,7 +1838,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_D2_v3_RR2.wav",
+        sample = "EWHarp_Normal_D2_v3_RR2.flac",
         lokey = 50,
         hikey = 50,
         pitch_keycenter = 50,
@@ -1847,7 +1847,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_D3_v3_RR2.wav",
+        sample = "EWHarp_Normal_D3_v3_RR2.flac",
         lokey = 62,
         hikey = 62,
         pitch_keycenter = 62,
@@ -1856,7 +1856,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_D4_v3_RR2.wav",
+        sample = "EWHarp_Normal_D4_v3_RR2.flac",
         lokey = 74,
         hikey = 74,
         pitch_keycenter = 74,
@@ -1865,7 +1865,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_D5_v3_RR2.wav",
+        sample = "EWHarp_Normal_D5_v3_RR2.flac",
         lokey = 86,
         hikey = 86,
         pitch_keycenter = 86,
@@ -1874,7 +1874,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_E1_v3_RR2.wav",
+        sample = "EWHarp_Normal_E1_v3_RR2.flac",
         lokey = 40,
         hikey = 40,
         pitch_keycenter = 40,
@@ -1883,7 +1883,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_E2_v3_RR2.wav",
+        sample = "EWHarp_Normal_E2_v3_RR2.flac",
         lokey = 52,
         hikey = 52,
         pitch_keycenter = 52,
@@ -1892,7 +1892,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_E3_v3_RR2.wav",
+        sample = "EWHarp_Normal_E3_v3_RR2.flac",
         lokey = 64,
         hikey = 64,
         pitch_keycenter = 64,
@@ -1901,7 +1901,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_E4_v3_RR2.wav",
+        sample = "EWHarp_Normal_E4_v3_RR2.flac",
         lokey = 76,
         hikey = 76,
         pitch_keycenter = 76,
@@ -1910,7 +1910,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_E5_v3_RR2.wav",
+        sample = "EWHarp_Normal_E5_v3_RR2.flac",
         lokey = 88,
         hikey = 88,
         pitch_keycenter = 88,
@@ -1919,7 +1919,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_F#1_v3_RR2.wav",
+        sample = "EWHarp_Normal_F#1_v3_RR2.flac",
         lokey = 42,
         hikey = 42,
         pitch_keycenter = 42,
@@ -1928,7 +1928,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_F#2_v3_RR2.wav",
+        sample = "EWHarp_Normal_F#2_v3_RR2.flac",
         lokey = 54,
         hikey = 54,
         pitch_keycenter = 54,
@@ -1937,7 +1937,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_F#3_v3_RR2.wav",
+        sample = "EWHarp_Normal_F#3_v3_RR2.flac",
         lokey = 66,
         hikey = 66,
         pitch_keycenter = 66,
@@ -1946,7 +1946,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_F#4_v3_RR2.wav",
+        sample = "EWHarp_Normal_F#4_v3_RR2.flac",
         lokey = 78,
         hikey = 78,
         pitch_keycenter = 78,
@@ -1955,7 +1955,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_F#5_v3_RR2.wav",
+        sample = "EWHarp_Normal_F#5_v3_RR2.flac",
         lokey = 90,
         hikey = 90,
         pitch_keycenter = 90,
@@ -1964,7 +1964,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_F1_v3_RR2.wav",
+        sample = "EWHarp_Normal_F1_v3_RR2.flac",
         lokey = 41,
         hikey = 41,
         pitch_keycenter = 41,
@@ -1973,7 +1973,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_F2_v3_RR2.wav",
+        sample = "EWHarp_Normal_F2_v3_RR2.flac",
         lokey = 53,
         hikey = 53,
         pitch_keycenter = 53,
@@ -1982,7 +1982,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_F3_v3_RR2.wav",
+        sample = "EWHarp_Normal_F3_v3_RR2.flac",
         lokey = 65,
         hikey = 65,
         pitch_keycenter = 65,
@@ -1991,7 +1991,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_F4_v3_RR2.wav",
+        sample = "EWHarp_Normal_F4_v3_RR2.flac",
         lokey = 77,
         hikey = 77,
         pitch_keycenter = 77,
@@ -2000,7 +2000,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_F5_v3_RR2.wav",
+        sample = "EWHarp_Normal_F5_v3_RR2.flac",
         lokey = 89,
         hikey = 89,
         pitch_keycenter = 89,
@@ -2009,7 +2009,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_G#1_v3_RR2.wav",
+        sample = "EWHarp_Normal_G#1_v3_RR2.flac",
         lokey = 44,
         hikey = 44,
         pitch_keycenter = 44,
@@ -2018,7 +2018,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_G#2_v3_RR2.wav",
+        sample = "EWHarp_Normal_G#2_v3_RR2.flac",
         lokey = 56,
         hikey = 56,
         pitch_keycenter = 56,
@@ -2027,7 +2027,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_G#3_v3_RR2.wav",
+        sample = "EWHarp_Normal_G#3_v3_RR2.flac",
         lokey = 68,
         hikey = 68,
         pitch_keycenter = 68,
@@ -2036,7 +2036,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_G#4_v3_RR2.wav",
+        sample = "EWHarp_Normal_G#4_v3_RR2.flac",
         lokey = 80,
         hikey = 80,
         pitch_keycenter = 80,
@@ -2045,7 +2045,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_G#5_v3_RR2.wav",
+        sample = "EWHarp_Normal_G#5_v3_RR2.flac",
         lokey = 92,
         hikey = 92,
         pitch_keycenter = 92,
@@ -2054,7 +2054,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_G1_v3_RR2.wav",
+        sample = "EWHarp_Normal_G1_v3_RR2.flac",
         lokey = 43,
         hikey = 43,
         pitch_keycenter = 43,
@@ -2063,7 +2063,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_G2_v3_RR2.wav",
+        sample = "EWHarp_Normal_G2_v3_RR2.flac",
         lokey = 55,
         hikey = 55,
         pitch_keycenter = 55,
@@ -2072,7 +2072,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_G3_v3_RR2.wav",
+        sample = "EWHarp_Normal_G3_v3_RR2.flac",
         lokey = 67,
         hikey = 67,
         pitch_keycenter = 67,
@@ -2081,7 +2081,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_G4_v3_RR2.wav",
+        sample = "EWHarp_Normal_G4_v3_RR2.flac",
         lokey = 79,
         hikey = 79,
         pitch_keycenter = 79,
@@ -2090,7 +2090,7 @@ local rr2_group = {
         volume = 2,
     },
     {
-        sample = "EWHarp_Normal_G5_v3_RR2.wav",
+        sample = "EWHarp_Normal_G5_v3_RR2.flac",
         lokey = 91,
         hikey = 91,
         pitch_keycenter = 91,
