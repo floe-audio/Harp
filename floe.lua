@@ -2102,8 +2102,10 @@ local rr2_group = {
 
 local library = floe.new_library({
     name = "Etherealwinds Harp 2: CE",
-    tagline = "Harp",
+    tagline = "Multisampled Celtic Harp",
     author = "Versilian Studios",
+    description =
+    "This version of Etherealwinds Harp 2: Community Edition has been modified to work with Floe and use FLAC samples instead of WAV. Besides that, the library is the same as the original. These changes were made by the Floe team; unrelated to Versilian Studios.",
     library_url = "https://github.com/Floe-Project/Harp",
     author_url = "https://versilian-studios.com/etherealwinds-harp/",
 })
