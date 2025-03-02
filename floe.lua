@@ -2108,13 +2108,14 @@ local library = floe.new_library({
     "This version of Etherealwinds Harp 2: Community Edition has been modified to work with Floe and use FLAC samples instead of WAV. Besides that, the library is the same as the original. These changes were made by the Floe team; unrelated to Versilian Studios.",
     library_url = "https://github.com/Floe-Project/Harp",
     author_url = "https://versilian-studios.com/etherealwinds-harp/",
+    background_image_path = "Harpe Celtique Telenn Gentañ - Alan Stivell - 04.jpg",
 })
 
 floe.set_attribution_requirement("Samples", {
-    title = "Etherealwinds Harp 2: CE",
+    title = "Etherealwinds Harp 2: Community Edition",
     license_name = "CC-BY-4.0",
     license_url = "https://creativecommons.org/licenses/by/4.0/",
-    attributed_to = "Versilian Studios and Etherealwinds",
+    attributed_to = "Versilian Studios",
     attribution_url = "https://versilian-studios.com/etherealwinds-harp/",
 })
 
