@@ -1,8 +1,8 @@
 # Free Multisampled Celtic Harp
 
-Floe-compatible version of Versilian Studios Etherealwinds Harp 2: Community Edition whilst still working with SFZ players.
+This is a Floe-compatible version of Versilian Studios Etherealwinds Harp 2: Community Edition. It still works with SFZ players. This version is made by the Floe team and is not affiliated with Versilian Studios.
 
-It's a high quality multisampled 'sustained' Celtic harp sample library. It's free to download and use. However, you must attribute the original authors of the samples if you share your music. Floe helps with this: https://floe.audio/about/attribution.html
+It's a high-quality multisampled 'sustained' Celtic harp sample library. It's free to download and use. However, you must attribute the original authors of the samples if you share your music. Floe helps with this: https://floe.audio/usage/attribution.html
 
 Modifications made:
 - Added Floe Lua file
