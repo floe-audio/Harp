@@ -2146,18 +2146,12 @@ for _, group in ipairs({ rr1_group, rr2_group }) do
     for _, region_info in ipairs(group) do
         local velo_start, velo_end = map_midi_velocity_range_to_normalized_range(region_info.lovel, region_info.hivel)
         floe.add_region(instrument, {
-            file = {
-                path = "Samples/" .. region_info.sample,
-                root_key = region_info.pitch_keycenter,
-            },
-            trigger_criteria = {
-                key_range = { region_info.lokey, region_info.hikey + 1 },
-                velocity_range = { velo_start, velo_end },
-                round_robin_index = rr_index,
-            },
-            options = {
-                volume_db = region_info.volume,
-            }
+            path = "Samples/" .. region_info.sample,
+            root_key = region_info.pitch_keycenter,
+            key_range = { region_info.lokey, region_info.hikey + 1 },
+            velocity_range = { velo_start, velo_end },
+            round_robin_index = rr_index,
+            volume_db = region_info.volume,
         })
     end
 end
