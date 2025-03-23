@@ -2148,10 +2148,14 @@ for _, group in ipairs({ rr1_group, rr2_group }) do
         floe.add_region(instrument, {
             path = "Samples/" .. region_info.sample,
             root_key = region_info.pitch_keycenter,
-            key_range = { region_info.lokey, region_info.hikey + 1 },
-            velocity_range = { velo_start, velo_end },
-            round_robin_index = rr_index,
-            volume_db = region_info.volume,
+            trigger_criteria = {
+                key_range = { region_info.lokey, region_info.hikey + 1 },
+                velocity_range = { velo_start, velo_end },
+                round_robin_index = rr_index,
+            },
+            audio_properties = {
+                gain_db = region_info.volume,
+            },
         })
     end
 end
