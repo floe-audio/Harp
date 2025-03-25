@@ -2122,7 +2122,7 @@ floe.set_attribution_requirement("Samples", {
 })
 
 local instrument = floe.new_instrument(library, {
-    name = "Harp",
+    name = "Celtic Harp",
     description = "High-quality multisampled Celtic harp.",
     tags = { "acoustic", "plucked strings", "solo", "orchestral", "cinematic", "folk" },
 })
