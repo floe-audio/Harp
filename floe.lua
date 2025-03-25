@@ -2110,6 +2110,7 @@ local library = floe.new_library({
     library_url = "https://github.com/Floe-Project/Harp",
     author_url = "https://versilian-studios.com/etherealwinds-harp/",
     background_image_path = "Harpe Celtique Telenn Gentañ - Alan Stivell - 04.jpg",
+    icon_image_path = "icon.png",
 })
 
 floe.set_attribution_requirement("Samples", {
@@ -2122,6 +2123,8 @@ floe.set_attribution_requirement("Samples", {
 
 local instrument = floe.new_instrument(library, {
     name = "Harp",
+    description = "High-quality multisampled Celtic harp.",
+    tags = { "acoustic", "plucked strings", "solo", "orchestral", "cinematic", "folk" },
 })
 
 -- Floe doesn't use the MIDI-1 style velocity ranges.
