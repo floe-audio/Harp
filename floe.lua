@@ -2102,11 +2102,11 @@ local rr2_group = {
 }
 
 local library = floe.new_library({
-    name = "Etherealwinds Harp 2: CE",
+    name = "Celtic Harp",
     tagline = "Multisampled Celtic Harp",
-    author = "Versilian Studios",
+    author = "Floe Ports",
     description =
-    "High-quality multisampled Celtic harp. It's a slightly modified version of Etherealwinds Harp 2: Community Edition. This version was made by the Floe team; unrelated to Versilian Studios.",
+    "High-quality multisampled Celtic harp. It's a slightly modified version of Versilian Studios - Etherealwinds Harp 2: Community Edition. This port was made by the Floe team.",
     library_url = "https://github.com/Floe-Project/Harp",
     author_url = "https://versilian-studios.com/etherealwinds-harp/",
     background_image_path = "Harpe Celtique Telenn Gentañ - Alan Stivell - 04.jpg",
