@@ -15,7 +15,6 @@ local rr1_group = {
         pitch_keycenter = 46,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_A#2_v2_RR1.flac",
@@ -24,7 +23,6 @@ local rr1_group = {
         pitch_keycenter = 58,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_A#3_v2_RR1.flac",
@@ -33,7 +31,6 @@ local rr1_group = {
         pitch_keycenter = 70,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_A#4_v2_RR1.flac",
@@ -42,7 +39,6 @@ local rr1_group = {
         pitch_keycenter = 82,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_A1_v2_RR1.flac",
@@ -51,7 +47,6 @@ local rr1_group = {
         pitch_keycenter = 45,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_A2_v2_RR1.flac",
@@ -60,7 +55,6 @@ local rr1_group = {
         pitch_keycenter = 57,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_A3_v2_RR1.flac",
@@ -69,7 +63,6 @@ local rr1_group = {
         pitch_keycenter = 69,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_A4_v2_RR1.flac",
@@ -78,7 +71,6 @@ local rr1_group = {
         pitch_keycenter = 81,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_A5_v2_RR1.flac",
@@ -87,7 +79,6 @@ local rr1_group = {
         pitch_keycenter = 93,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_B1_v2_RR1.flac",
@@ -96,7 +87,6 @@ local rr1_group = {
         pitch_keycenter = 47,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_B2_v2_RR1.flac",
@@ -105,7 +95,6 @@ local rr1_group = {
         pitch_keycenter = 59,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_B3_v2_RR1.flac",
@@ -114,7 +103,6 @@ local rr1_group = {
         pitch_keycenter = 71,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_B4_v2_RR1.flac",
@@ -123,7 +111,6 @@ local rr1_group = {
         pitch_keycenter = 83,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_C#1_v2_RR1.flac",
@@ -132,7 +119,6 @@ local rr1_group = {
         pitch_keycenter = 37,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_C#2_v2_RR1.flac",
@@ -141,7 +127,6 @@ local rr1_group = {
         pitch_keycenter = 49,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_C#3_v2_RR1.flac",
@@ -150,7 +135,6 @@ local rr1_group = {
         pitch_keycenter = 61,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_C#4_v2_RR1.flac",
@@ -159,7 +143,6 @@ local rr1_group = {
         pitch_keycenter = 73,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_C#5_v2_RR1.flac",
@@ -168,7 +151,6 @@ local rr1_group = {
         pitch_keycenter = 85,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_C1_v2_RR1.flac",
@@ -177,7 +159,6 @@ local rr1_group = {
         pitch_keycenter = 36,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_C2_v2_RR1.flac",
@@ -186,7 +167,6 @@ local rr1_group = {
         pitch_keycenter = 48,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_C3_v2_RR1.flac",
@@ -195,7 +175,6 @@ local rr1_group = {
         pitch_keycenter = 60,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_C4_v2_RR1.flac",
@@ -204,7 +183,6 @@ local rr1_group = {
         pitch_keycenter = 72,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_C5_v2_RR1.flac",
@@ -213,7 +191,6 @@ local rr1_group = {
         pitch_keycenter = 84,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_D#1_v2_RR1.flac",
@@ -222,7 +199,6 @@ local rr1_group = {
         pitch_keycenter = 39,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_D#2_v2_RR1.flac",
@@ -231,7 +207,6 @@ local rr1_group = {
         pitch_keycenter = 51,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_D#3_v2_RR1.flac",
@@ -240,7 +215,6 @@ local rr1_group = {
         pitch_keycenter = 63,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_D#4_v2_RR1.flac",
@@ -249,7 +223,6 @@ local rr1_group = {
         pitch_keycenter = 75,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_D#5_v2_RR1.flac",
@@ -258,7 +231,6 @@ local rr1_group = {
         pitch_keycenter = 87,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_D1_v2_RR1.flac",
@@ -267,7 +239,6 @@ local rr1_group = {
         pitch_keycenter = 38,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_D2_v2_RR1.flac",
@@ -276,7 +247,6 @@ local rr1_group = {
         pitch_keycenter = 50,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_D3_v2_RR1.flac",
@@ -285,7 +255,6 @@ local rr1_group = {
         pitch_keycenter = 62,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_D4_v2_RR1.flac",
@@ -294,7 +263,6 @@ local rr1_group = {
         pitch_keycenter = 74,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_D5_v2_RR1.flac",
@@ -303,7 +271,6 @@ local rr1_group = {
         pitch_keycenter = 86,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_E1_v2_RR1.flac",
@@ -312,7 +279,6 @@ local rr1_group = {
         pitch_keycenter = 40,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_E2_v2_RR1.flac",
@@ -321,7 +287,6 @@ local rr1_group = {
         pitch_keycenter = 52,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_E3_v2_RR1.flac",
@@ -330,7 +295,6 @@ local rr1_group = {
         pitch_keycenter = 64,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_E4_v2_RR1.flac",
@@ -339,7 +303,6 @@ local rr1_group = {
         pitch_keycenter = 76,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_E5_v2_RR1.flac",
@@ -348,7 +311,6 @@ local rr1_group = {
         pitch_keycenter = 88,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_F#1_v2_RR1.flac",
@@ -357,7 +319,6 @@ local rr1_group = {
         pitch_keycenter = 42,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_F#2_v2_RR1.flac",
@@ -366,7 +327,6 @@ local rr1_group = {
         pitch_keycenter = 54,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_F#3_v2_RR1.flac",
@@ -375,7 +335,6 @@ local rr1_group = {
         pitch_keycenter = 66,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_F#4_v2_RR1.flac",
@@ -384,7 +343,6 @@ local rr1_group = {
         pitch_keycenter = 78,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_F#5_v2_RR1.flac",
@@ -393,7 +351,6 @@ local rr1_group = {
         pitch_keycenter = 90,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_F1_v2_RR1.flac",
@@ -402,7 +359,6 @@ local rr1_group = {
         pitch_keycenter = 41,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_F2_v2_RR1.flac",
@@ -411,7 +367,6 @@ local rr1_group = {
         pitch_keycenter = 53,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_F3_v2_RR1.flac",
@@ -420,7 +375,6 @@ local rr1_group = {
         pitch_keycenter = 65,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_F4_v2_RR1.flac",
@@ -429,7 +383,6 @@ local rr1_group = {
         pitch_keycenter = 77,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_F5_v2_RR1.flac",
@@ -438,7 +391,6 @@ local rr1_group = {
         pitch_keycenter = 89,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_G#1_v2_RR1.flac",
@@ -447,7 +399,6 @@ local rr1_group = {
         pitch_keycenter = 44,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_G#2_v2_RR1.flac",
@@ -456,7 +407,6 @@ local rr1_group = {
         pitch_keycenter = 56,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_G#3_v2_RR1.flac",
@@ -465,7 +415,6 @@ local rr1_group = {
         pitch_keycenter = 68,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_G#4_v2_RR1.flac",
@@ -474,7 +423,6 @@ local rr1_group = {
         pitch_keycenter = 80,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_G#5_v2_RR1.flac",
@@ -483,7 +431,6 @@ local rr1_group = {
         pitch_keycenter = 92,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_G1_v2_RR1.flac",
@@ -492,7 +439,6 @@ local rr1_group = {
         pitch_keycenter = 43,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_G2_v2_RR1.flac",
@@ -501,7 +447,6 @@ local rr1_group = {
         pitch_keycenter = 55,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_G3_v2_RR1.flac",
@@ -510,7 +455,6 @@ local rr1_group = {
         pitch_keycenter = 67,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_G4_v2_RR1.flac",
@@ -519,7 +463,6 @@ local rr1_group = {
         pitch_keycenter = 79,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_G5_v2_RR1.flac",
@@ -528,7 +471,6 @@ local rr1_group = {
         pitch_keycenter = 91,
         lovel = 0,
         hivel = 80,
-        volume = 14
     },
     {
         sample = "EWHarp_Normal_A#1_v3_RR1.flac",
@@ -537,7 +479,6 @@ local rr1_group = {
         pitch_keycenter = 46,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_A#2_v3_RR1.flac",
@@ -546,7 +487,6 @@ local rr1_group = {
         pitch_keycenter = 58,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_A#3_v3_RR1.flac",
@@ -555,7 +495,6 @@ local rr1_group = {
         pitch_keycenter = 70,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_A#4_v3_RR1.flac",
@@ -564,7 +503,6 @@ local rr1_group = {
         pitch_keycenter = 82,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_A1_v3_RR1.flac",
@@ -573,7 +511,6 @@ local rr1_group = {
         pitch_keycenter = 45,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_A2_v3_RR1.flac",
@@ -582,7 +519,6 @@ local rr1_group = {
         pitch_keycenter = 57,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_A3_v3_RR1.flac",
@@ -591,7 +527,6 @@ local rr1_group = {
         pitch_keycenter = 69,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_A4_v3_RR1.flac",
@@ -600,7 +535,6 @@ local rr1_group = {
         pitch_keycenter = 81,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_A5_v3_RR1.flac",
@@ -609,7 +543,6 @@ local rr1_group = {
         pitch_keycenter = 93,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_B1_v3_RR1.flac",
@@ -618,7 +551,6 @@ local rr1_group = {
         pitch_keycenter = 47,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_B2_v3_RR1.flac",
@@ -627,7 +559,6 @@ local rr1_group = {
         pitch_keycenter = 59,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_B3_v3_RR1.flac",
@@ -636,7 +567,6 @@ local rr1_group = {
         pitch_keycenter = 71,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_B4_v3_RR1.flac",
@@ -645,7 +575,6 @@ local rr1_group = {
         pitch_keycenter = 83,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_C#1_v3_RR1.flac",
@@ -654,7 +583,6 @@ local rr1_group = {
         pitch_keycenter = 37,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_C#2_v3_RR1.flac",
@@ -663,7 +591,6 @@ local rr1_group = {
         pitch_keycenter = 49,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_C#3_v3_RR1.flac",
@@ -672,7 +599,6 @@ local rr1_group = {
         pitch_keycenter = 61,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_C#4_v3_RR1.flac",
@@ -681,7 +607,6 @@ local rr1_group = {
         pitch_keycenter = 73,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_C#5_v3_RR1.flac",
@@ -690,7 +615,6 @@ local rr1_group = {
         pitch_keycenter = 85,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_C1_v3_RR1.flac",
@@ -699,7 +623,6 @@ local rr1_group = {
         pitch_keycenter = 36,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_C2_v3_RR1.flac",
@@ -708,7 +631,6 @@ local rr1_group = {
         pitch_keycenter = 48,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_C3_v3_RR1.flac",
@@ -717,7 +639,6 @@ local rr1_group = {
         pitch_keycenter = 60,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_C4_v3_RR1.flac",
@@ -726,7 +647,6 @@ local rr1_group = {
         pitch_keycenter = 72,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_C5_v3_RR1.flac",
@@ -735,7 +655,6 @@ local rr1_group = {
         pitch_keycenter = 84,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_D#1_v3_RR1.flac",
@@ -744,7 +663,6 @@ local rr1_group = {
         pitch_keycenter = 39,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_D#2_v3_RR1.flac",
@@ -753,7 +671,6 @@ local rr1_group = {
         pitch_keycenter = 51,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_D#3_v3_RR1.flac",
@@ -762,7 +679,6 @@ local rr1_group = {
         pitch_keycenter = 63,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_D#4_v3_RR1.flac",
@@ -771,7 +687,6 @@ local rr1_group = {
         pitch_keycenter = 75,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_D#5_v3_RR1.flac",
@@ -780,7 +695,6 @@ local rr1_group = {
         pitch_keycenter = 87,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_D1_v3_RR1.flac",
@@ -789,7 +703,6 @@ local rr1_group = {
         pitch_keycenter = 38,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_D2_v3_RR1.flac",
@@ -798,7 +711,6 @@ local rr1_group = {
         pitch_keycenter = 50,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_D3_v3_RR1.flac",
@@ -807,7 +719,6 @@ local rr1_group = {
         pitch_keycenter = 62,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_D4_v3_RR1.flac",
@@ -816,7 +727,6 @@ local rr1_group = {
         pitch_keycenter = 74,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_D5_v3_RR1.flac",
@@ -825,7 +735,6 @@ local rr1_group = {
         pitch_keycenter = 86,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_E1_v3_RR1.flac",
@@ -834,7 +743,6 @@ local rr1_group = {
         pitch_keycenter = 40,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_E2_v3_RR1.flac",
@@ -843,7 +751,6 @@ local rr1_group = {
         pitch_keycenter = 52,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_E3_v3_RR1.flac",
@@ -852,7 +759,6 @@ local rr1_group = {
         pitch_keycenter = 64,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_E4_v3_RR1.flac",
@@ -861,7 +767,6 @@ local rr1_group = {
         pitch_keycenter = 76,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_E5_v3_RR1.flac",
@@ -870,7 +775,6 @@ local rr1_group = {
         pitch_keycenter = 88,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_F#1_v3_RR1.flac",
@@ -879,7 +783,6 @@ local rr1_group = {
         pitch_keycenter = 42,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_F#2_v3_RR1.flac",
@@ -888,7 +791,6 @@ local rr1_group = {
         pitch_keycenter = 54,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_F#3_v3_RR1.flac",
@@ -897,7 +799,6 @@ local rr1_group = {
         pitch_keycenter = 66,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_F#4_v3_RR1.flac",
@@ -906,7 +807,6 @@ local rr1_group = {
         pitch_keycenter = 78,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_F#5_v3_RR1.flac",
@@ -915,7 +815,6 @@ local rr1_group = {
         pitch_keycenter = 90,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_F1_v3_RR1.flac",
@@ -924,7 +823,6 @@ local rr1_group = {
         pitch_keycenter = 41,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_F2_v3_RR1.flac",
@@ -933,7 +831,6 @@ local rr1_group = {
         pitch_keycenter = 53,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_F3_v3_RR1.flac",
@@ -942,7 +839,6 @@ local rr1_group = {
         pitch_keycenter = 65,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_F4_v3_RR1.flac",
@@ -951,7 +847,6 @@ local rr1_group = {
         pitch_keycenter = 77,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_F5_v3_RR1.flac",
@@ -960,7 +855,6 @@ local rr1_group = {
         pitch_keycenter = 89,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_G#1_v3_RR1.flac",
@@ -969,7 +863,6 @@ local rr1_group = {
         pitch_keycenter = 44,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_G#2_v3_RR1.flac",
@@ -978,7 +871,6 @@ local rr1_group = {
         pitch_keycenter = 56,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_G#3_v3_RR1.flac",
@@ -987,7 +879,6 @@ local rr1_group = {
         pitch_keycenter = 68,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_G#4_v3_RR1.flac",
@@ -996,7 +887,6 @@ local rr1_group = {
         pitch_keycenter = 80,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_G#5_v3_RR1.flac",
@@ -1005,7 +895,6 @@ local rr1_group = {
         pitch_keycenter = 92,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_G1_v3_RR1.flac",
@@ -1014,7 +903,6 @@ local rr1_group = {
         pitch_keycenter = 43,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_G2_v3_RR1.flac",
@@ -1023,7 +911,6 @@ local rr1_group = {
         pitch_keycenter = 55,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_G3_v3_RR1.flac",
@@ -1032,7 +919,6 @@ local rr1_group = {
         pitch_keycenter = 67,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_G4_v3_RR1.flac",
@@ -1041,7 +927,6 @@ local rr1_group = {
         pitch_keycenter = 79,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
     {
         sample = "EWHarp_Normal_G5_v3_RR1.flac",
@@ -1050,7 +935,6 @@ local rr1_group = {
         pitch_keycenter = 91,
         lovel = 81,
         hivel = 127,
-        volume = 2
     },
 }
 
@@ -1062,7 +946,6 @@ local rr2_group = {
         pitch_keycenter = 46,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_A#2_v2_RR2.flac",
@@ -1071,7 +954,6 @@ local rr2_group = {
         pitch_keycenter = 58,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_A#3_v2_RR2.flac",
@@ -1080,7 +962,6 @@ local rr2_group = {
         pitch_keycenter = 70,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_A#4_v2_RR2.flac",
@@ -1089,7 +970,6 @@ local rr2_group = {
         pitch_keycenter = 82,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_A1_v2_RR2.flac",
@@ -1098,7 +978,6 @@ local rr2_group = {
         pitch_keycenter = 45,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_A2_v2_RR2.flac",
@@ -1107,7 +986,6 @@ local rr2_group = {
         pitch_keycenter = 57,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_A3_v2_RR2.flac",
@@ -1116,7 +994,6 @@ local rr2_group = {
         pitch_keycenter = 69,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_A4_v2_RR2.flac",
@@ -1125,7 +1002,6 @@ local rr2_group = {
         pitch_keycenter = 81,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_A5_v2_RR2.flac",
@@ -1134,7 +1010,6 @@ local rr2_group = {
         pitch_keycenter = 93,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_B1_v2_RR2.flac",
@@ -1143,7 +1018,6 @@ local rr2_group = {
         pitch_keycenter = 47,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_B2_v2_RR2.flac",
@@ -1152,7 +1026,6 @@ local rr2_group = {
         pitch_keycenter = 59,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_B3_v2_RR2.flac",
@@ -1161,7 +1034,6 @@ local rr2_group = {
         pitch_keycenter = 71,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_B4_v2_RR2.flac",
@@ -1170,7 +1042,6 @@ local rr2_group = {
         pitch_keycenter = 83,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_C#1_v2_RR2.flac",
@@ -1179,7 +1050,6 @@ local rr2_group = {
         pitch_keycenter = 37,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_C#2_v2_RR2.flac",
@@ -1188,7 +1058,6 @@ local rr2_group = {
         pitch_keycenter = 49,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_C#3_v2_RR2.flac",
@@ -1197,7 +1066,6 @@ local rr2_group = {
         pitch_keycenter = 61,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_C#4_v2_RR2.flac",
@@ -1206,7 +1074,6 @@ local rr2_group = {
         pitch_keycenter = 73,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_C#5_v2_RR2.flac",
@@ -1215,7 +1082,6 @@ local rr2_group = {
         pitch_keycenter = 85,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_C1_v2_RR2.flac",
@@ -1224,7 +1090,6 @@ local rr2_group = {
         pitch_keycenter = 36,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_C2_v2_RR2.flac",
@@ -1233,7 +1098,6 @@ local rr2_group = {
         pitch_keycenter = 48,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_C3_v2_RR2.flac",
@@ -1242,7 +1106,6 @@ local rr2_group = {
         pitch_keycenter = 60,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_C4_v2_RR2.flac",
@@ -1251,7 +1114,6 @@ local rr2_group = {
         pitch_keycenter = 72,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_C5_v2_RR2.flac",
@@ -1260,7 +1122,6 @@ local rr2_group = {
         pitch_keycenter = 84,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_D#1_v2_RR2.flac",
@@ -1269,7 +1130,6 @@ local rr2_group = {
         pitch_keycenter = 39,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_D#2_v2_RR2.flac",
@@ -1278,7 +1138,6 @@ local rr2_group = {
         pitch_keycenter = 51,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_D#3_v2_RR2.flac",
@@ -1287,7 +1146,6 @@ local rr2_group = {
         pitch_keycenter = 63,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_D#4_v2_RR2.flac",
@@ -1296,7 +1154,6 @@ local rr2_group = {
         pitch_keycenter = 75,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_D#5_v2_RR2.flac",
@@ -1305,7 +1162,6 @@ local rr2_group = {
         pitch_keycenter = 87,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_D1_v2_RR2.flac",
@@ -1314,7 +1170,6 @@ local rr2_group = {
         pitch_keycenter = 38,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_D2_v2_RR2.flac",
@@ -1323,7 +1178,6 @@ local rr2_group = {
         pitch_keycenter = 50,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_D3_v2_RR2.flac",
@@ -1332,7 +1186,6 @@ local rr2_group = {
         pitch_keycenter = 62,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_D4_v2_RR2.flac",
@@ -1341,7 +1194,6 @@ local rr2_group = {
         pitch_keycenter = 74,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_D5_v2_RR2.flac",
@@ -1350,7 +1202,6 @@ local rr2_group = {
         pitch_keycenter = 86,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_E1_v2_RR2.flac",
@@ -1359,7 +1210,6 @@ local rr2_group = {
         pitch_keycenter = 40,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_E2_v2_RR2.flac",
@@ -1368,7 +1218,6 @@ local rr2_group = {
         pitch_keycenter = 52,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_E3_v2_RR2.flac",
@@ -1377,7 +1226,6 @@ local rr2_group = {
         pitch_keycenter = 64,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_E4_v2_RR2.flac",
@@ -1386,7 +1234,6 @@ local rr2_group = {
         pitch_keycenter = 76,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_E5_v2_RR2.flac",
@@ -1395,7 +1242,6 @@ local rr2_group = {
         pitch_keycenter = 88,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_F#1_v2_RR2.flac",
@@ -1404,7 +1250,6 @@ local rr2_group = {
         pitch_keycenter = 42,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_F#2_v2_RR2.flac",
@@ -1413,7 +1258,6 @@ local rr2_group = {
         pitch_keycenter = 54,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_F#3_v2_RR2.flac",
@@ -1422,7 +1266,6 @@ local rr2_group = {
         pitch_keycenter = 66,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_F#4_v2_RR2.flac",
@@ -1431,7 +1274,6 @@ local rr2_group = {
         pitch_keycenter = 78,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_F#5_v2_RR2.flac",
@@ -1440,7 +1282,6 @@ local rr2_group = {
         pitch_keycenter = 90,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_F1_v2_RR2.flac",
@@ -1449,7 +1290,6 @@ local rr2_group = {
         pitch_keycenter = 41,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_F2_v2_RR2.flac",
@@ -1458,7 +1298,6 @@ local rr2_group = {
         pitch_keycenter = 53,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_F3_v2_RR2.flac",
@@ -1467,7 +1306,6 @@ local rr2_group = {
         pitch_keycenter = 65,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_F4_v2_RR2.flac",
@@ -1476,7 +1314,6 @@ local rr2_group = {
         pitch_keycenter = 77,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_F5_v2_RR2.flac",
@@ -1485,7 +1322,6 @@ local rr2_group = {
         pitch_keycenter = 89,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_G#1_v2_RR2.flac",
@@ -1494,7 +1330,6 @@ local rr2_group = {
         pitch_keycenter = 44,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_G#2_v2_RR2.flac",
@@ -1503,7 +1338,6 @@ local rr2_group = {
         pitch_keycenter = 56,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_G#3_v2_RR2.flac",
@@ -1512,7 +1346,6 @@ local rr2_group = {
         pitch_keycenter = 68,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_G#4_v2_RR2.flac",
@@ -1521,7 +1354,6 @@ local rr2_group = {
         pitch_keycenter = 80,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_G#5_v2_RR2.flac",
@@ -1530,7 +1362,6 @@ local rr2_group = {
         pitch_keycenter = 92,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_G1_v2_RR2.flac",
@@ -1539,7 +1370,6 @@ local rr2_group = {
         pitch_keycenter = 43,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_G2_v2_RR2.flac",
@@ -1548,7 +1378,6 @@ local rr2_group = {
         pitch_keycenter = 55,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_G3_v2_RR2.flac",
@@ -1557,7 +1386,6 @@ local rr2_group = {
         pitch_keycenter = 67,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_G4_v2_RR2.flac",
@@ -1566,7 +1394,6 @@ local rr2_group = {
         pitch_keycenter = 79,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_G5_v2_RR2.flac",
@@ -1575,7 +1402,6 @@ local rr2_group = {
         pitch_keycenter = 91,
         lovel = 0,
         hivel = 80,
-        volume = 14,
     },
     {
         sample = "EWHarp_Normal_A#1_v3_RR2.flac",
@@ -1584,7 +1410,6 @@ local rr2_group = {
         pitch_keycenter = 46,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_A#2_v3_RR2.flac",
@@ -1593,7 +1418,6 @@ local rr2_group = {
         pitch_keycenter = 58,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_A#3_v3_RR2.flac",
@@ -1602,7 +1426,6 @@ local rr2_group = {
         pitch_keycenter = 70,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_A#4_v3_RR2.flac",
@@ -1611,7 +1434,6 @@ local rr2_group = {
         pitch_keycenter = 82,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_A1_v3_RR2.flac",
@@ -1620,7 +1442,6 @@ local rr2_group = {
         pitch_keycenter = 45,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_A2_v3_RR2.flac",
@@ -1629,7 +1450,6 @@ local rr2_group = {
         pitch_keycenter = 57,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_A3_v3_RR2.flac",
@@ -1638,7 +1458,6 @@ local rr2_group = {
         pitch_keycenter = 69,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_A4_v3_RR2.flac",
@@ -1647,7 +1466,6 @@ local rr2_group = {
         pitch_keycenter = 81,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_A5_v3_RR2.flac",
@@ -1656,7 +1474,6 @@ local rr2_group = {
         pitch_keycenter = 93,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_B1_v3_RR2.flac",
@@ -1665,7 +1482,6 @@ local rr2_group = {
         pitch_keycenter = 47,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_B2_v3_RR2.flac",
@@ -1674,7 +1490,6 @@ local rr2_group = {
         pitch_keycenter = 59,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_B3_v3_RR2.flac",
@@ -1683,7 +1498,6 @@ local rr2_group = {
         pitch_keycenter = 71,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_B4_v3_RR2.flac",
@@ -1692,7 +1506,6 @@ local rr2_group = {
         pitch_keycenter = 83,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_C#1_v3_RR2.flac",
@@ -1701,7 +1514,6 @@ local rr2_group = {
         pitch_keycenter = 37,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_C#2_v3_RR2.flac",
@@ -1710,7 +1522,6 @@ local rr2_group = {
         pitch_keycenter = 49,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_C#3_v3_RR2.flac",
@@ -1719,7 +1530,6 @@ local rr2_group = {
         pitch_keycenter = 61,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_C#4_v3_RR2.flac",
@@ -1728,7 +1538,6 @@ local rr2_group = {
         pitch_keycenter = 73,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_C#5_v3_RR2.flac",
@@ -1737,7 +1546,6 @@ local rr2_group = {
         pitch_keycenter = 85,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_C1_v3_RR2.flac",
@@ -1746,7 +1554,6 @@ local rr2_group = {
         pitch_keycenter = 36,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_C2_v3_RR2.flac",
@@ -1755,7 +1562,6 @@ local rr2_group = {
         pitch_keycenter = 48,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_C3_v3_RR2.flac",
@@ -1764,7 +1570,6 @@ local rr2_group = {
         pitch_keycenter = 60,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_C4_v3_RR2.flac",
@@ -1773,7 +1578,6 @@ local rr2_group = {
         pitch_keycenter = 72,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_C5_v3_RR2.flac",
@@ -1782,7 +1586,6 @@ local rr2_group = {
         pitch_keycenter = 84,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_D#1_v3_RR2.flac",
@@ -1791,7 +1594,6 @@ local rr2_group = {
         pitch_keycenter = 39,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_D#2_v3_RR2.flac",
@@ -1800,7 +1602,6 @@ local rr2_group = {
         pitch_keycenter = 51,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_D#3_v3_RR2.flac",
@@ -1809,7 +1610,6 @@ local rr2_group = {
         pitch_keycenter = 63,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_D#4_v3_RR2.flac",
@@ -1818,7 +1618,6 @@ local rr2_group = {
         pitch_keycenter = 75,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_D#5_v3_RR2.flac",
@@ -1827,7 +1626,6 @@ local rr2_group = {
         pitch_keycenter = 87,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_D1_v3_RR2.flac",
@@ -1836,7 +1634,6 @@ local rr2_group = {
         pitch_keycenter = 38,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_D2_v3_RR2.flac",
@@ -1845,7 +1642,6 @@ local rr2_group = {
         pitch_keycenter = 50,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_D3_v3_RR2.flac",
@@ -1854,7 +1650,6 @@ local rr2_group = {
         pitch_keycenter = 62,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_D4_v3_RR2.flac",
@@ -1863,7 +1658,6 @@ local rr2_group = {
         pitch_keycenter = 74,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_D5_v3_RR2.flac",
@@ -1872,7 +1666,6 @@ local rr2_group = {
         pitch_keycenter = 86,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_E1_v3_RR2.flac",
@@ -1881,7 +1674,6 @@ local rr2_group = {
         pitch_keycenter = 40,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_E2_v3_RR2.flac",
@@ -1890,7 +1682,6 @@ local rr2_group = {
         pitch_keycenter = 52,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_E3_v3_RR2.flac",
@@ -1899,7 +1690,6 @@ local rr2_group = {
         pitch_keycenter = 64,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_E4_v3_RR2.flac",
@@ -1908,7 +1698,6 @@ local rr2_group = {
         pitch_keycenter = 76,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_E5_v3_RR2.flac",
@@ -1917,7 +1706,6 @@ local rr2_group = {
         pitch_keycenter = 88,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_F#1_v3_RR2.flac",
@@ -1926,7 +1714,6 @@ local rr2_group = {
         pitch_keycenter = 42,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_F#2_v3_RR2.flac",
@@ -1935,7 +1722,6 @@ local rr2_group = {
         pitch_keycenter = 54,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_F#3_v3_RR2.flac",
@@ -1944,7 +1730,6 @@ local rr2_group = {
         pitch_keycenter = 66,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_F#4_v3_RR2.flac",
@@ -1953,7 +1738,6 @@ local rr2_group = {
         pitch_keycenter = 78,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_F#5_v3_RR2.flac",
@@ -1962,7 +1746,6 @@ local rr2_group = {
         pitch_keycenter = 90,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_F1_v3_RR2.flac",
@@ -1971,7 +1754,6 @@ local rr2_group = {
         pitch_keycenter = 41,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_F2_v3_RR2.flac",
@@ -1980,7 +1762,6 @@ local rr2_group = {
         pitch_keycenter = 53,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_F3_v3_RR2.flac",
@@ -1989,7 +1770,6 @@ local rr2_group = {
         pitch_keycenter = 65,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_F4_v3_RR2.flac",
@@ -1998,7 +1778,6 @@ local rr2_group = {
         pitch_keycenter = 77,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_F5_v3_RR2.flac",
@@ -2007,7 +1786,6 @@ local rr2_group = {
         pitch_keycenter = 89,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_G#1_v3_RR2.flac",
@@ -2016,7 +1794,6 @@ local rr2_group = {
         pitch_keycenter = 44,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_G#2_v3_RR2.flac",
@@ -2025,7 +1802,6 @@ local rr2_group = {
         pitch_keycenter = 56,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_G#3_v3_RR2.flac",
@@ -2034,7 +1810,6 @@ local rr2_group = {
         pitch_keycenter = 68,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_G#4_v3_RR2.flac",
@@ -2043,7 +1818,6 @@ local rr2_group = {
         pitch_keycenter = 80,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_G#5_v3_RR2.flac",
@@ -2052,7 +1826,6 @@ local rr2_group = {
         pitch_keycenter = 92,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_G1_v3_RR2.flac",
@@ -2061,7 +1834,6 @@ local rr2_group = {
         pitch_keycenter = 43,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_G2_v3_RR2.flac",
@@ -2070,7 +1842,6 @@ local rr2_group = {
         pitch_keycenter = 55,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_G3_v3_RR2.flac",
@@ -2079,7 +1850,6 @@ local rr2_group = {
         pitch_keycenter = 67,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_G4_v3_RR2.flac",
@@ -2088,7 +1858,6 @@ local rr2_group = {
         pitch_keycenter = 79,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
     {
         sample = "EWHarp_Normal_G5_v3_RR2.flac",
@@ -2097,7 +1866,6 @@ local rr2_group = {
         pitch_keycenter = 91,
         lovel = 81,
         hivel = 127,
-        volume = 2,
     },
 }
 
@@ -2155,9 +1923,6 @@ for _, group in ipairs({ rr1_group, rr2_group }) do
                 key_range = { region_info.lokey, region_info.hikey + 1 },
                 velocity_range = { velo_start, velo_end },
                 round_robin_index = rr_index,
-            },
-            audio_properties = {
-                gain_db = region_info.volume,
             },
         })
     end
