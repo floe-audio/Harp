@@ -6,6 +6,8 @@
 -- https://creativecommons.org/licenses/by/4.0/deed.en
 -- Copyright Sam Windell 2025
 
+floe.set_required_floe_version("0.12.0")
+
 -- Data from the original SFZ file.
 local rr1_group = {
     {
@@ -1895,33 +1897,18 @@ local instrument = floe.new_instrument(library, {
     tags = { "acoustic", "plucked strings", "solo", "orchestral", "cinematic", "folk" },
 })
 
--- Floe doesn't use the MIDI-1 style velocity ranges.
--- This function maps from inclusive MIDI-1 style velocity range (1-127) to the new 0-100 exclusive range.
-local function map_midi_velocity_range_to_normalized_range(low_velo, high_velo)
-    local lo = math.max(1, low_velo) - 1
-    local hi = high_velo - 1
-    local existing_steps = 126.0
-    local new_steps = 99.0
-
-    local start = math.floor((lo / existing_steps) * new_steps + 0.5)
-    local end_val = math.floor(math.min((((hi + 1) / existing_steps) * new_steps), new_steps + 1) + 0.5)
-
-    return start, end_val
-end
-
 for _, group in ipairs({ rr1_group, rr2_group }) do
     local rr_index = 0
     if group == rr2_group then
         rr_index = 1
     end
     for _, region_info in ipairs(group) do
-        local velo_start, velo_end = map_midi_velocity_range_to_normalized_range(region_info.lovel, region_info.hivel)
         floe.add_region(instrument, {
             path = "Samples/" .. region_info.sample,
             root_key = region_info.pitch_keycenter,
             trigger_criteria = {
                 key_range = { region_info.lokey, region_info.hikey + 1 },
-                velocity_range = { velo_start, velo_end },
+                velocity_range = floe.midi_range_to_hundred_range({ region_info.lovel, region_info.hivel }),
                 round_robin_index = rr_index,
             },
         })

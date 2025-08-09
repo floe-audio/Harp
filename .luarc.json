@@ -1,0 +1,10 @@
+{
+    "workspace": {
+        "library": [
+            "/home/sam/.local/state/floe_api.lua"
+        ]
+    },
+    "runtime": {
+        "version": "Lua 5.4"
+    }
+}
