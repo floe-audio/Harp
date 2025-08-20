@@ -18,6 +18,7 @@ local library = floe.new_library({
     author_url = "https://versilian-studios.com/etherealwinds-harp/",
     background_image_path = "Harpe Celtique Telenn Gentañ - Alan Stivell - 04.jpg",
     icon_image_path = "icon.png",
+    minor_version = 2,
 })
 
 floe.set_attribution_requirement("Samples", {
