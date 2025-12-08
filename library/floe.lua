@@ -16,8 +16,8 @@ local library = floe.new_library({
     "High-quality multisampled Celtic harp. It's a slightly modified version of Versilian Studios - Etherealwinds Harp 2: Community Edition. This port was made by the Floe team.",
     library_url = "https://github.com/Floe-Project/Harp",
     author_url = "https://versilian-studios.com/etherealwinds-harp/",
-    background_image_path = "Harpe Celtique Telenn Gentañ - Alan Stivell - 04.jpg",
-    icon_image_path = "icon.png",
+    background_image_path = "Images/Harpe Celtique Telenn Gentañ - Alan Stivell - 04.jpg",
+    icon_image_path = "Images/icon.png",
     minor_version = 2,
 })
 
