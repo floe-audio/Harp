@@ -1,12 +1,12 @@
 -- Etherealwinds Harp 2: Community Edition is licensed under a Creative Commons Attribution 4.0 International License.
 -- https://versilian-studios.com/etherealwinds-harp/
 --
--- This file is a direct translation of Harp_Normal.sfz into Floe's Lua format.
+-- This file is a translation of Harp_Normal.sfz into Floe's Lua format with various modifications.
 -- This file is also licensed under a Creative Commons Attribution 4.0 International License.
 -- https://creativecommons.org/licenses/by/4.0/deed.en
 -- Copyright Sam Windell 2025
 
-floe.set_required_floe_version("0.12.0")
+floe.set_required_floe_version("1.1.1")
 
 local library = floe.new_library({
     name = "Celtic Harp",
@@ -29,31 +29,83 @@ floe.set_attribution_requirement("Samples", {
     attribution_url = "https://versilian-studios.com/etherealwinds-harp/",
 })
 
+local harp_sample_info = dofile("Lua/sample_info.lua")
+
 do
-    local instrument = floe.new_instrument(library, {
-        name = "Celtic Harp",
-        description = "High-quality multisampled Celtic harp.",
-        tags = { "acoustic", "plucked strings", "solo", "orchestral", "cinematic", "folk" },
-    })
+    local tags = { "acoustic", "plucked strings", "solo", "orchestral", "cinematic", "folk" }
 
-    local sample_info = dofile("Lua/sample-info.lua")
+    do
+        local instrument = floe.new_instrument(library, {
+            name = "Celtic Harp",
+            id = "Celtic Harp v2",
+            description = "High-quality multisampled Celtic harp.",
+            tags = tags,
+        })
 
-    floe.add_named_key_range(instrument, {
-        name = "Natural Range",
-        key_range = { 36, 93 },
-    })
+        floe.add_named_key_range(instrument, {
+            name = "Natural Range",
+            key_range = { 36, 93 },
+        })
 
-    for rr_index, group in ipairs(sample_info) do
-        for _, region_info in ipairs(group) do
-            floe.add_region(instrument, {
-                path = "Samples/" .. region_info.sample,
-                root_key = region_info.pitch_keycenter,
-                trigger_criteria = {
-                    key_range = { region_info.lokey, region_info.hikey + 1 },
-                    velocity_range = floe.midi_range_to_hundred_range({ region_info.lovel, region_info.hivel }),
-                    round_robin_index = rr_index - 1,
-                },
-            })
+        for rr_index, group in ipairs(harp_sample_info) do
+            for _, region_info in ipairs(group) do
+                local velocity_range = {}
+                if region_info.dynamic == "soft" then
+                    velocity_range = { 0, 90 }
+                elseif region_info.dynamic == "hard" then
+                    velocity_range = { 60, 100 }
+                end
+
+                floe.add_region(instrument, {
+                    path = "Samples/Harp/" .. region_info.file,
+                    root_key = region_info.root,
+                    trigger_criteria = {
+                        velocity_range = velocity_range,
+                        round_robin_index = rr_index - 1,
+                        feather_overlapping_velocity_layers = true,
+                        auto_map_key_range_group = string.format("rr%d-%s", rr_index, region_info.dynamic),
+                    },
+                    audio_properties = {
+                        gain_db = 8,
+                    },
+                })
+            end
+        end
+    end
+
+    -- "Celtic Harp" used to be very quiet compared to other instruments. We have a new louder version, but
+    -- retain backwards compatibility by keeping the old version as "Celtic Harp (Legacy)".
+    do
+        local instrument = floe.new_instrument(library, {
+            name = "Celtic Harp (Legacy)",
+            id = "Celtic Harp",
+            description = "High-quality multisampled Celtic harp.",
+            tags = tags,
+            folder = "Legacy",
+        })
+
+        floe.add_named_key_range(instrument, {
+            name = "Natural Range",
+            key_range = { 36, 93 },
+        })
+
+        local velocity_ranges = {
+            soft = floe.midi_range_to_hundred_range({ 0, 80 }),
+            hard = floe.midi_range_to_hundred_range({ 81, 127 }),
+        }
+
+        for rr_index, group in ipairs(harp_sample_info) do
+            for _, region_info in ipairs(group) do
+                floe.add_region(instrument, {
+                    path = "Samples/Harp/" .. region_info.file,
+                    root_key = region_info.root,
+                    trigger_criteria = {
+                        velocity_range = velocity_ranges[region_info.dynamic],
+                        round_robin_index = rr_index - 1,
+                        auto_map_key_range_group = string.format("rr%d-%s", rr_index, region_info.dynamic),
+                    },
+                })
+            end
         end
     end
 end
@@ -93,6 +145,11 @@ for _, fx in ipairs({
         audio_properties = {
             gain_db = -fx_sample_info[fx.file].peak_db - -fx_peak_db,
         },
+    })
+
+    floe.add_named_key_range(instrument, {
+        name = "Natural Pitch",
+        key_range = { 60, 61 },
     })
 end
 
@@ -166,8 +223,12 @@ do
                 gain_db = -fx_sample_info[sample.file].peak_db - -fx_peak_db,
             },
         })
+
+        floe.add_named_key_range(instrument, {
+            name = "Natural Pitch",
+            key_range = { 60, 61 },
+        })
     end
 end
-
 
 return library
