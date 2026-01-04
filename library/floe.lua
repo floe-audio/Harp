@@ -4,7 +4,7 @@
 -- This file is a translation of Harp_Normal.sfz into Floe's Lua format with various modifications.
 -- This file is also licensed under a Creative Commons Attribution 4.0 International License.
 -- https://creativecommons.org/licenses/by/4.0/deed.en
--- Copyright Sam Windell 2025
+-- Copyright Sam Windell 2026
 
 floe.set_required_floe_version("1.1.1")
 
@@ -33,6 +33,7 @@ local harp_sample_info = dofile("Lua/sample_info.lua")
 
 do
     local tags = { "acoustic", "plucked strings", "solo", "orchestral", "cinematic", "folk" }
+    local folder = "01 Core"
 
     do
         local instrument = floe.new_instrument(library, {
@@ -40,6 +41,7 @@ do
             id = "Celtic Harp v2",
             description = "High-quality multisampled Celtic harp.",
             tags = tags,
+            folder = folder,
         })
 
         floe.add_named_key_range(instrument, {
@@ -81,7 +83,7 @@ do
             id = "Celtic Harp",
             description = "High-quality multisampled Celtic harp.",
             tags = tags,
-            folder = "Legacy",
+            folder = folder,
         })
 
         floe.add_named_key_range(instrument, {
@@ -132,7 +134,7 @@ for _, fx in ipairs({
     local instrument = floe.new_instrument(library, {
         name = fx.name,
         description = fx.name,
-        folder = "FX",
+        folder = "02 FX",
         tags = tags,
     })
 
@@ -173,12 +175,14 @@ do
         { file = "JordiVox_Phrases_G3_rr5.flac",  name = "Vocal Phrase G 4" },
     }
 
+    local folder = "03 Vocal Phrases"
+
     do
         local instrument = floe.new_instrument(library, {
             name = "Vox Phrase Multi",
             description =
             "A collection of vocal phrase one-shots by \"etherealwinds\" mapped to individual keys near middle C.",
-            folder = "Vocal Phrases",
+            folder = folder,
             tags = { "vocal", "solo", "oneshot", "multi-pitched", "breathy", "ethereal", "dreamy", "peaceful", "cinematic", "ambient" },
         })
 
@@ -209,7 +213,7 @@ do
         local instrument = floe.new_instrument(library, {
             name = sample.name,
             description = "A vocal phrase one-shot by \"etherealwinds\".",
-            folder = "Vocal Phrases",
+            folder = folder,
             tags = { "vocal", "solo", "oneshot", "multi-pitched", "breathy", "ethereal", "dreamy", "peaceful", "cinematic", "ambient" },
         })
 
