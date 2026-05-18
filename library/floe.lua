@@ -29,6 +29,14 @@ floe.set_attribution_requirement("Samples", {
     attribution_url = "https://versilian-studios.com/etherealwinds-harp/",
 })
 
+floe.set_attribution_requirement("Images/Harpe Celtique Telenn Gentañ - Alan Stivell - 04.jpg", {
+    title = "Harpe Celtique Telenn Gentañ - Alan Stivell - 04",
+    license_name = "CC-BY-SA-4.0",
+    license_url = "https://creativecommons.org/licenses/by-sa/4.0/",
+    attributed_to = "Jérémy Kergourlay",
+    attribution_url = "https://commons.wikimedia.org/wiki/File:Harpe_Celtique_Telenn_Genta%C3%B1_-_Alan_Stivell_-_04.jpg",
+})
+
 local harp_sample_info = dofile("Lua/sample_info.lua")
 
 do
